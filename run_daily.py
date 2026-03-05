@@ -1,3 +1,6 @@
+
+
+
 import os
 import json
 import time
@@ -9,10 +12,169 @@ import pandas as pd
 import psycopg2
 import requests
 from dotenv import load_dotenv
+from typing import List, Tuple
+
+def zero_rows_summary(df, team_col: str = "team_name") -> Tuple[int, List[str]]:
+    """
+    Counts rows where *all* core activity metrics are 0 (or missing).
+    Returns (zero_count, up to 10 team names).
+    """
+    metric_candidates = [
+        "total_mentions",
+        "tweet_count",
+        "total_likes",
+        "total_retweets",
+        "total_replies",
+        # if you have these in some outputs, they’ll be included automatically:
+        "positive_mentions",
+        "negative_mentions",
+        "neutral_mentions",
+    ]
+    metrics = [c for c in metric_candidates if c in df.columns]
+    if not metrics:
+        return 0, []
+
+    # treat NaN as 0, then mark rows where sum across metrics == 0
+    m = df[metrics].fillna(0)
+    zero_mask = (m.sum(axis=1) == 0)
+
+    teams = []
+    if team_col in df.columns:
+        teams = (
+            df.loc[zero_mask, team_col]
+            .dropna()
+            .astype(str)
+            .unique()
+            .tolist()
+        )
+
+    return int(zero_mask.sum()), teams[:10]
+
+
+def build_run_summary_lines(results: list) -> str:
+    """
+    results: list of dicts, each like:
+      {"label": "BL cumulative", "df": df, "csv_path": "..."}
+    Returns a single Slack message (no multiple threads).
+    """
+    lines = ["✅ Daily Signals run finished"]
+
+    cutoff = os.getenv("CUTOFF_HOUR_UTC")
+    if cutoff is not None:
+        lines.append(f"Cutoff UTC hour: {cutoff}")
+
+    for r in results:
+        df = r["df"]
+        label = r["label"]
+
+        zero_n, zero_teams = zero_rows_summary(df, team_col="team_name")
+        teams_str = ""
+        if zero_n > 0 and zero_teams:
+            teams_str = f" ({', '.join(zero_teams)}{'…' if zero_n > len(zero_teams) else ''})"
+
+        lines.append(f"{label}: {len(df)} rows | zero-rows: {zero_n}{teams_str}")
+
+    return "\n".join(lines) 
+
+
+def load_lineups(league_key: str) -> pd.DataFrame:
+    """
+    Expected columns in the CSV: team_name, player_name
+    Returns a cleaned dataframe with lowercase keys.
+    """
+    if league_key == "bundesliga":
+        p = LINEUPS_DIR / "bundesliga_lineups_2025_26.csv"
+        df = pd.read_csv(p, sep=",", engine="python")
+    elif league_key == "champions_league":
+        p = LINEUPS_DIR / "cl_lineups_list.csv"
+        # if your CL file is comma-separated, keep default.
+        # if it's semicolon-separated, change to: sep=";"
+        df = pd.read_csv(p, sep=";")
+    else:
+        raise ValueError(f"Unknown league_key: {league_key}")
+    
+    print("LINEUP PATH:", p)
+    print("LINEUP COLS:", list(df.columns))
+
+    # normalize column names just in case
+        # normalize column names just in case
+    df.columns = [str(c).strip().lower().replace("\ufeff", "") for c in df.columns]
+
+    # accept common variants
+    col_map = {}
+    if "team_name" not in df.columns:
+        if "team" in df.columns:
+            col_map["team"] = "team_name"
+        if "teamname" in df.columns:
+            col_map["teamname"] = "team_name"
+
+    if "player_name" not in df.columns:
+        if "player" in df.columns:
+            col_map["player"] = "player_name"
+        if "playername" in df.columns:
+            col_map["playername"] = "player_name"
+
+    if col_map:
+        df = df.rename(columns=col_map)
+
+    if "team_name" not in df.columns or "player_name" not in df.columns:
+        raise RuntimeError(
+            f"Lineup CSV for {league_key} must contain team_name and player_name columns"
+        )
+
+    df = df[["team_name", "player_name"]].dropna()
+
+    df["team_key"] = df["team_name"].astype(str).str.strip().str.lower()
+    df["player_key"] = df["player_name"].astype(str).str.strip().str.lower()
+
+    return df
+
+
+def apply_lineup_filter_and_team_mapping(df: pd.DataFrame, league_key: str) -> pd.DataFrame:
+    if df is None:
+        return df
+    if df.empty:
+        return df
+
+    lineups = load_lineups(league_key)
+
+    teams = set(lineups["team_key"].tolist())
+    players = set(lineups["player_key"].tolist())
+    player_to_team = dict(zip(lineups["player_key"], lineups["team_name"]))
+
+    df = df.copy()
+
+    if "entity_name" not in df.columns or "team_name" not in df.columns:
+        # if the query output doesn't have expected columns, don't break the run
+        return df
+
+    df["entity_key"] = df["entity_name"].astype(str).str.strip().str.lower()
+    df["team_key"] = df["team_name"].astype(str).str.strip().str.lower()
+
+    # override team_name for players
+    df["team_name"] = df.apply(lambda r: player_to_team.get(r["entity_key"], r["team_name"]), axis=1)
+    df["team_key"] = df["team_name"].astype(str).str.strip().str.lower()
+
+    # strict filter
+    if "entity_type" in df.columns:
+        is_team = df["entity_type"].astype(str).str.lower().eq("team")
+        df = df[(is_team & df["team_key"].isin(teams)) | (~is_team & df["entity_key"].isin(players))].copy()
+    else:
+        df = df[df["entity_key"].isin(players) | df["team_key"].isin(teams)].copy()
+
+    df.drop(columns=["entity_key", "team_key"], errors="ignore", inplace=True)
+    return df
+    # fallback if entity_type missing
+    df = df[df["entity_key"].isin(players) | df["team_key"].isin(teams)].copy()
 
 BASE_DIR = Path(__file__).resolve().parent
 SQL_DIR = BASE_DIR / "queries"
 OUT_DIR = BASE_DIR / "outputs"
+
+BASE_DIR = Path(__file__).resolve().parent
+SQL_DIR = BASE_DIR / "queries"
+OUT_DIR = BASE_DIR / "outputs"
+LINEUPS_DIR = BASE_DIR / "lineups"
 
 SQL_PATH = SQL_DIR / "league.sql"
 
@@ -83,7 +245,7 @@ def run_one(conn, sql_path: Path, params):
 
 
 # -----------------------
-# Nimish KPI formulas (same)
+# KPI formulas
 # -----------------------
 def calculate_interest_rate(mention_count: int, sentiment_score: float, engagement_score: float) -> float:
     volume_score = min(mention_count / 1000, 1.0) * 40
@@ -356,7 +518,8 @@ def main():
     print(f"Cutoff (UTC): {end_ts}")
     print(f"Cumulative (UTC): {cum_start} -> {cum_end}")
     print(f"Trailing24h (UTC): {t24_start} -> {t24_end}")
-
+    
+    results = []  # collect dfs for one Slack summary
     try:
         for name, path, league_key, window_key in QUERIES:
             print(f"Running {name} ...")
@@ -380,6 +543,10 @@ def main():
                 df["league"] = league_key
                 df["window_start_utc"] = window_start
                 df["window_end_utc"] = window_end
+                df = apply_lineup_filter_and_team_mapping(df, league_key)
+                print(f"After lineup filter: rows={len(df)}, unique teams={df['team_name'].nunique()}")
+                
+                results.append({"label": name, "df": df})
 
                 step["ok"] = True
                 step["seconds"] = secs
@@ -411,8 +578,13 @@ def main():
 
         write_status_files(status)
         print("Status written -> outputs/run_status.md and outputs/run_status.json")
-        send_slack_alert(build_alert_message(status))
-
+        try:
+            summary_text = build_run_summary_lines(results)
+            send_slack_alert(summary_text)
+        except Exception as e:
+            print("Slack summary failed:", e)
+        
+        
 
 if __name__ == "__main__":
     main()

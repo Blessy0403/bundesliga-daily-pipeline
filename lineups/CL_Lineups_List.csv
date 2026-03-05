@@ -1,0 +1,819 @@
+team_name;player_name;position;status;match_date;opponent;match_id;competition;shirt_number;source
+Real Madrid;Alvaro Arbeloa;;Coach;2026-02-17;SL Benfica;736981;UEFA Champions League;;APIFootball
+Real Madrid;Thibaut Courtois;1;Starting XI;2026-02-17;SL Benfica;736981;UEFA Champions League;1;APIFootball
+Real Madrid;Trent Alexander-Arnold;2;Starting XI;2026-02-17;SL Benfica;736981;UEFA Champions League;12;APIFootball
+Real Madrid;Antonio Rüdiger;3;Starting XI;2026-02-17;SL Benfica;736981;UEFA Champions League;22;APIFootball
+Real Madrid;Dean Huijsen;4;Starting XI;2026-02-17;SL Benfica;736981;UEFA Champions League;24;APIFootball
+Real Madrid;Álvaro Carreras;5;Starting XI;2026-02-17;SL Benfica;736981;UEFA Champions League;18;APIFootball
+Real Madrid;Federico Valverde;6;Starting XI;2026-02-17;SL Benfica;736981;UEFA Champions League;8;APIFootball
+Real Madrid;Arda Güler;7;Starting XI;2026-02-17;SL Benfica;736981;UEFA Champions League;15;APIFootball
+Real Madrid;Aurélien Tchouaméni;8;Starting XI;2026-02-17;SL Benfica;736981;UEFA Champions League;14;APIFootball
+Real Madrid;Eduardo Camavinga;9;Starting XI;2026-02-17;SL Benfica;736981;UEFA Champions League;6;APIFootball
+Real Madrid;Kylian Mbappé;10;Starting XI;2026-02-17;SL Benfica;736981;UEFA Champions League;10;APIFootball
+Real Madrid;Vinícius Júnior;11;Starting XI;2026-02-17;SL Benfica;736981;UEFA Champions League;7;APIFootball
+Real Madrid;Brahim Díaz;0;Substitute;2026-02-17;SL Benfica;736981;UEFA Champions League;21;APIFootball
+Real Madrid;Daniel Carvajal;0;Substitute;2026-02-17;SL Benfica;736981;UEFA Champions League;2;APIFootball
+Real Madrid;Thiago Pitarch;0;Substitute;2026-02-17;SL Benfica;736981;UEFA Champions League;45;APIFootball
+Real Madrid;Andriy Lunin;0;Substitute;2026-02-17;SL Benfica;736981;UEFA Champions League;13;APIFootball
+Real Madrid;David Alaba;0;Substitute;2026-02-17;SL Benfica;736981;UEFA Champions League;4;APIFootball
+Real Madrid;Joan Martínez;0;Substitute;2026-02-17;SL Benfica;736981;UEFA Champions League;36;APIFootball
+Real Madrid;Ferland Mendy;0;Substitute;2026-02-17;SL Benfica;736981;UEFA Champions League;23;APIFootball
+Real Madrid;Fran García;0;Substitute;2026-02-17;SL Benfica;736981;UEFA Champions League;20;APIFootball
+Real Madrid;Franco Mastantuono;0;Substitute;2026-02-17;SL Benfica;736981;UEFA Champions League;30;APIFootball
+Real Madrid;Jorge Cestero;0;Substitute;2026-02-17;SL Benfica;736981;UEFA Champions League;28;APIFootball
+Real Madrid;Dani Ceballos;0;Substitute;2026-02-17;SL Benfica;736981;UEFA Champions League;19;APIFootball
+Real Madrid;Gonzalo García;0;Substitute;2026-02-17;SL Benfica;736981;UEFA Champions League;16;APIFootball
+Paris Saint-Germain;Enrique Luis;;Coach;2026-02-17;AS Monaco;736983;UEFA Champions League;;APIFootball
+Paris Saint-Germain;Matvey Safonov;1;Starting XI;2026-02-17;AS Monaco;736983;UEFA Champions League;39;APIFootball
+Paris Saint-Germain;Achraf Hakimi;2;Starting XI;2026-02-17;AS Monaco;736983;UEFA Champions League;2;APIFootball
+Paris Saint-Germain;Marquinhos;3;Starting XI;2026-02-17;AS Monaco;736983;UEFA Champions League;5;APIFootball
+Paris Saint-Germain;Willian Pacho;4;Starting XI;2026-02-17;AS Monaco;736983;UEFA Champions League;51;APIFootball
+Paris Saint-Germain;Nuno Mendes;5;Starting XI;2026-02-17;AS Monaco;736983;UEFA Champions League;25;APIFootball
+Paris Saint-Germain;Warren Zaïre-Emery;6;Starting XI;2026-02-17;AS Monaco;736983;UEFA Champions League;33;APIFootball
+Paris Saint-Germain;Vitinha;7;Starting XI;2026-02-17;AS Monaco;736983;UEFA Champions League;17;APIFootball
+Paris Saint-Germain;João Neves;8;Starting XI;2026-02-17;AS Monaco;736983;UEFA Champions League;87;APIFootball
+Paris Saint-Germain;Khvicha Kvaratskhelia;9;Starting XI;2026-02-17;AS Monaco;736983;UEFA Champions League;7;APIFootball
+Paris Saint-Germain;Ousmane Dembélé;10;Starting XI;2026-02-17;AS Monaco;736983;UEFA Champions League;10;APIFootball
+Paris Saint-Germain;Bradley Barcola;11;Starting XI;2026-02-17;AS Monaco;736983;UEFA Champions League;29;APIFootball
+Paris Saint-Germain;Désiré Doué;0;Substitute;2026-02-17;AS Monaco;736983;UEFA Champions League;14;APIFootball
+Paris Saint-Germain;Kang-in Lee;0;Substitute;2026-02-17;AS Monaco;736983;UEFA Champions League;19;APIFootball
+Paris Saint-Germain;Gonçalo Ramos;0;Substitute;2026-02-17;AS Monaco;736983;UEFA Champions League;9;APIFootball
+Paris Saint-Germain;Lucas Chevalier;0;Substitute;2026-02-17;AS Monaco;736983;UEFA Champions League;30;APIFootball
+Paris Saint-Germain;Renato Marin;0;Substitute;2026-02-17;AS Monaco;736983;UEFA Champions League;89;APIFootball
+Paris Saint-Germain;Lucas Beraldo;0;Substitute;2026-02-17;AS Monaco;736983;UEFA Champions League;4;APIFootball
+Paris Saint-Germain;Ilya Zabarnyi;0;Substitute;2026-02-17;AS Monaco;736983;UEFA Champions League;6;APIFootball
+Paris Saint-Germain;Lucas Hernández;0;Substitute;2026-02-17;AS Monaco;736983;UEFA Champions League;21;APIFootball
+Paris Saint-Germain;Dro Fernández;0;Substitute;2026-02-17;AS Monaco;736983;UEFA Champions League;27;APIFootball
+Paris Saint-Germain;Ibrahim Mbaye;0;Substitute;2026-02-17;AS Monaco;736983;UEFA Champions League;49;APIFootball
+Newcastle United;Eddie Howe;;Coach;2026-02-18;Qarabağ FK;736984;UEFA Champions League;;APIFootball
+Newcastle United;Nick Pope;1;Starting XI;2026-02-18;Qarabağ FK;736984;UEFA Champions League;1;APIFootball
+Newcastle United;Kieran Trippier;2;Starting XI;2026-02-18;Qarabağ FK;736984;UEFA Champions League;2;APIFootball
+Newcastle United;Malick Thiaw;3;Starting XI;2026-02-18;Qarabağ FK;736984;UEFA Champions League;12;APIFootball
+Newcastle United;Dan Burn;4;Starting XI;2026-02-18;Qarabağ FK;736984;UEFA Champions League;33;APIFootball
+Newcastle United;Lewis Hall;5;Starting XI;2026-02-18;Qarabağ FK;736984;UEFA Champions League;3;APIFootball
+Newcastle United;Joe Willock;6;Starting XI;2026-02-18;Qarabağ FK;736984;UEFA Champions League;28;APIFootball
+Newcastle United;Sandro Tonali;7;Starting XI;2026-02-18;Qarabağ FK;736984;UEFA Champions League;8;APIFootball
+Newcastle United;Anthony Elanga;8;Starting XI;2026-02-18;Qarabağ FK;736984;UEFA Champions League;20;APIFootball
+Newcastle United;Nick Woltemade;9;Starting XI;2026-02-18;Qarabağ FK;736984;UEFA Champions League;27;APIFootball
+Newcastle United;Harvey Barnes;10;Starting XI;2026-02-18;Qarabağ FK;736984;UEFA Champions League;11;APIFootball
+Newcastle United;Anthony Gordon;11;Starting XI;2026-02-18;Qarabağ FK;736984;UEFA Champions League;10;APIFootball
+Newcastle United;Jacob Ramsey;0;Substitute;2026-02-18;Qarabağ FK;736984;UEFA Champions League;41;APIFootball
+Newcastle United;William Osula;0;Substitute;2026-02-18;Qarabağ FK;736984;UEFA Champions League;18;APIFootball
+Newcastle United;Jacob Murphy;0;Substitute;2026-02-18;Qarabağ FK;736984;UEFA Champions League;23;APIFootball
+Newcastle United;Joelinton;0;Substitute;2026-02-18;Qarabağ FK;736984;UEFA Champions League;7;APIFootball
+Newcastle United;Sean Neave;0;Substitute;2026-02-18;Qarabağ FK;736984;UEFA Champions League;62;APIFootball
+Newcastle United;Aaron Ramsdale;0;Substitute;2026-02-18;Qarabağ FK;736984;UEFA Champions League;32;APIFootball
+Newcastle United;John Ruddy;0;Substitute;2026-02-18;Qarabağ FK;736984;UEFA Champions League;26;APIFootball
+Newcastle United;Aidan Harris;0;Substitute;2026-02-18;Qarabağ FK;736984;UEFA Champions League;58;APIFootball
+Newcastle United;Alex Murphy;0;Substitute;2026-02-18;Qarabağ FK;736984;UEFA Champions League;37;APIFootball
+Newcastle United;Leo Shahar;0;Substitute;2026-02-18;Qarabağ FK;736984;UEFA Champions League;61;APIFootball
+Inter Milan;Cristian Chivu;;Coach;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;;APIFootball
+Inter Milan;Yann Sommer;1;Starting XI;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;1;APIFootball
+Inter Milan;Manuel Akanji;2;Starting XI;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;25;APIFootball
+Inter Milan;Francesco Acerbi;3;Starting XI;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;15;APIFootball
+Inter Milan;Alessandro Bastoni;4;Starting XI;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;95;APIFootball
+Inter Milan;Matteo Darmian;5;Starting XI;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;36;APIFootball
+Inter Milan;Petar Sučić;6;Starting XI;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;8;APIFootball
+Inter Milan;Nicolò Barella;7;Starting XI;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;23;APIFootball
+Inter Milan;Henrikh Mkhitaryan;8;Starting XI;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;22;APIFootball
+Inter Milan;Carlos Augusto;9;Starting XI;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;30;APIFootball
+Inter Milan;Francesco Pio Esposito;10;Starting XI;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;94;APIFootball
+Inter Milan;Lautaro Martínez;11;Starting XI;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;10;APIFootball
+Inter Milan;Marcus Thuram;0;Substitute;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;9;APIFootball
+Inter Milan;Luís Henrique;0;Substitute;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;11;APIFootball
+Inter Milan;Piotr Zieliński;0;Substitute;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;7;APIFootball
+Inter Milan;Ange-Yoan Bonny;0;Substitute;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;14;APIFootball
+Inter Milan;Andy Diouf;0;Substitute;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;17;APIFootball
+Inter Milan;Josep Martínez;0;Substitute;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;13;APIFootball
+Inter Milan;Raffaele Di Gennaro;0;Substitute;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;12;APIFootball
+Inter Milan;Yann Bisseck;0;Substitute;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;31;APIFootball
+Inter Milan;Stefan de Vrij;0;Substitute;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;6;APIFootball
+Inter Milan;Leonardo Bovo;0;Substitute;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;45;APIFootball
+Inter Milan;Federico Dimarco;0;Substitute;2026-02-18;FK Bodø/Glimt;736985;UEFA Champions League;32;APIFootball
+Atlético de Madrid;;;;;;;;;
+Juventus FC;Luciano Spalletti;;Coach;2026-02-17;Galatasaray;736980;UEFA Champions League;;APIFootball
+Juventus FC;Michele Di Gregorio;1;Starting XI;2026-02-17;Galatasaray;736980;UEFA Champions League;16;APIFootball
+Juventus FC;Pierre Kalulu;2;Starting XI;2026-02-17;Galatasaray;736980;UEFA Champions League;15;APIFootball
+Juventus FC;Bremer;3;Starting XI;2026-02-17;Galatasaray;736980;UEFA Champions League;3;APIFootball
+Juventus FC;Lloyd Kelly;4;Starting XI;2026-02-17;Galatasaray;736980;UEFA Champions League;6;APIFootball
+Juventus FC;Andrea Cambiaso;5;Starting XI;2026-02-17;Galatasaray;736980;UEFA Champions League;27;APIFootball
+Juventus FC;Teun Koopmeiners;6;Starting XI;2026-02-17;Galatasaray;736980;UEFA Champions League;8;APIFootball
+Juventus FC;Manuel Locatelli;7;Starting XI;2026-02-17;Galatasaray;736980;UEFA Champions League;5;APIFootball
+Juventus FC;Khéphren Thuram;8;Starting XI;2026-02-17;Galatasaray;736980;UEFA Champions League;19;APIFootball
+Juventus FC;Francisco Conceição;9;Starting XI;2026-02-17;Galatasaray;736980;UEFA Champions League;7;APIFootball
+Juventus FC;Weston McKennie;10;Starting XI;2026-02-17;Galatasaray;736980;UEFA Champions League;22;APIFootball
+Juventus FC;Kenan Yıldız;11;Starting XI;2026-02-17;Galatasaray;736980;UEFA Champions League;10;APIFootball
+Juventus FC;Federico Gatti;0;Substitute;2026-02-17;Galatasaray;736980;UEFA Champions League;4;APIFootball
+Juventus FC;Juan Cabal;0;Substitute;2026-02-17;Galatasaray;736980;UEFA Champions League;32;APIFootball
+Juventus FC;Filip Kostić;0;Substitute;2026-02-17;Galatasaray;736980;UEFA Champions League;18;APIFootball
+Juventus FC;Fabio Miretti;0;Substitute;2026-02-17;Galatasaray;736980;UEFA Champions League;21;APIFootball
+Juventus FC;Loïs Openda;0;Substitute;2026-02-17;Galatasaray;736980;UEFA Champions League;20;APIFootball
+Juventus FC;Mattia Perin;0;Substitute;2026-02-17;Galatasaray;736980;UEFA Champions League;1;APIFootball
+Juventus FC;Carlo Pinsoglio;0;Substitute;2026-02-17;Galatasaray;736980;UEFA Champions League;23;APIFootball
+Juventus FC;Edon Zhegrova;0;Substitute;2026-02-17;Galatasaray;736980;UEFA Champions League;11;APIFootball
+Juventus FC;Vasilije Adžić;0;Substitute;2026-02-17;Galatasaray;736980;UEFA Champions League;17;APIFootball
+Juventus FC;Jérémie Boga;0;Substitute;2026-02-17;Galatasaray;736980;UEFA Champions League;13;APIFootball
+Borussia Dortmund;Niko Kovac;;Coach;2026-02-17;Atalanta BC;736982;UEFA Champions League;;APIFootball
+Borussia Dortmund;Gregor Kobel;1;Starting XI;2026-02-17;Atalanta BC;736982;UEFA Champions League;1;APIFootball
+Borussia Dortmund;Luca Reggiani;2;Starting XI;2026-02-17;Atalanta BC;736982;UEFA Champions League;49;APIFootball
+Borussia Dortmund;Waldemar Anton;3;Starting XI;2026-02-17;Atalanta BC;736982;UEFA Champions League;3;APIFootball
+Borussia Dortmund;Ramy Bensebaini;4;Starting XI;2026-02-17;Atalanta BC;736982;UEFA Champions League;5;APIFootball
+Borussia Dortmund;Julian Ryerson;5;Starting XI;2026-02-17;Atalanta BC;736982;UEFA Champions League;26;APIFootball
+Borussia Dortmund;Jobe Bellingham;6;Starting XI;2026-02-17;Atalanta BC;736982;UEFA Champions League;7;APIFootball
+Borussia Dortmund;Felix Nmecha;7;Starting XI;2026-02-17;Atalanta BC;736982;UEFA Champions League;8;APIFootball
+Borussia Dortmund;Daniel Svensson;8;Starting XI;2026-02-17;Atalanta BC;736982;UEFA Champions League;24;APIFootball
+Borussia Dortmund;Maximilian Beier;9;Starting XI;2026-02-17;Atalanta BC;736982;UEFA Champions League;14;APIFootball
+Borussia Dortmund;Julian Brandt;10;Starting XI;2026-02-17;Atalanta BC;736982;UEFA Champions League;10;APIFootball
+Borussia Dortmund;Serhou Guirassy;11;Starting XI;2026-02-17;Atalanta BC;736982;UEFA Champions League;9;APIFootball
+Borussia Dortmund;Carney Chukwuemeka;0;Substitute;2026-02-17;Atalanta BC;736982;UEFA Champions League;17;APIFootball
+Borussia Dortmund;Karim Adeyemi;0;Substitute;2026-02-17;Atalanta BC;736982;UEFA Champions League;27;APIFootball
+Borussia Dortmund;Marcel Sabitzer;0;Substitute;2026-02-17;Atalanta BC;736982;UEFA Champions League;20;APIFootball
+Borussia Dortmund;Fábio Silva;0;Substitute;2026-02-17;Atalanta BC;736982;UEFA Champions League;21;APIFootball
+Borussia Dortmund;Silas Ostrzinski;0;Substitute;2026-02-17;Atalanta BC;736982;UEFA Champions League;31;APIFootball
+Borussia Dortmund;Alexander Meyer;0;Substitute;2026-02-17;Atalanta BC;736982;UEFA Champions League;33;APIFootball
+Borussia Dortmund;Yan Couto;0;Substitute;2026-02-17;Atalanta BC;736982;UEFA Champions League;2;APIFootball
+Borussia Dortmund;Almugera Kabar;0;Substitute;2026-02-17;Atalanta BC;736982;UEFA Champions League;42;APIFootball
+Borussia Dortmund;Elias Benkara;0;Substitute;2026-02-17;Atalanta BC;736982;UEFA Champions League;47;APIFootball
+Borussia Dortmund;Danylo Krevsun;0;Substitute;2026-02-17;Atalanta BC;736982;UEFA Champions League;45;APIFootball
+Borussia Dortmund;Salih Özcan;0;Substitute;2026-02-17;Atalanta BC;736982;UEFA Champions League;6;APIFootball
+Borussia Dortmund;Samuele Inacio;0;Substitute;2026-02-17;Atalanta BC;736982;UEFA Champions League;40;APIFootball
+Bayer 04 Leverkusen;Kasper Hjulmand;;Coach;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;;APIFootball
+Bayer 04 Leverkusen;Janis Blaswich;1;Starting XI;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;28;APIFootball
+Bayer 04 Leverkusen;Jarell Quansah;2;Starting XI;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;4;APIFootball
+Bayer 04 Leverkusen;Robert Andrich;3;Starting XI;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;8;APIFootball
+Bayer 04 Leverkusen;Edmond Tapsoba;4;Starting XI;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;12;APIFootball
+Bayer 04 Leverkusen;Lucas Vázquez;5;Starting XI;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;21;APIFootball
+Bayer 04 Leverkusen;Exequiel Palacios;6;Starting XI;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;25;APIFootball
+Bayer 04 Leverkusen;Aleix García;7;Starting XI;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;24;APIFootball
+Bayer 04 Leverkusen;Alejandro Grimaldo;8;Starting XI;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;20;APIFootball
+Bayer 04 Leverkusen;Ibrahim Maza;9;Starting XI;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;30;APIFootball
+Bayer 04 Leverkusen;Ernest Poku;10;Starting XI;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;19;APIFootball
+Bayer 04 Leverkusen;Patrik Schick;11;Starting XI;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;14;APIFootball
+Bayer 04 Leverkusen;Malik Tillman;0;Substitute;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;10;APIFootball
+Bayer 04 Leverkusen;Martin Terrier;0;Substitute;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;11;APIFootball
+Bayer 04 Leverkusen;Arthur;0;Substitute;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;13;APIFootball
+Bayer 04 Leverkusen;Ezequiel Fernández;0;Substitute;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;6;APIFootball
+Bayer 04 Leverkusen;Christian Kofane;0;Substitute;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;35;APIFootball
+Bayer 04 Leverkusen;Jonas Omlin;0;Substitute;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;18;APIFootball
+Bayer 04 Leverkusen;Niklas Lomb;0;Substitute;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;36;APIFootball
+Bayer 04 Leverkusen;Loïc Badé;0;Substitute;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;5;APIFootball
+Bayer 04 Leverkusen;Tim Oermann;0;Substitute;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;15;APIFootball
+Bayer 04 Leverkusen;Axel Tape;0;Substitute;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;16;APIFootball
+Bayer 04 Leverkusen;Jonas Hofmann;0;Substitute;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;7;APIFootball
+Bayer 04 Leverkusen;Montrell Culbreath;0;Substitute;2026-02-18;Olympiacos Piraeus;736987;UEFA Champions League;42;APIFootball
+Atalanta BC;Raffaele Palladino;;Coach;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;;APIFootball
+Atalanta BC;Marco Carnesecchi;1;Starting XI;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;29;APIFootball
+Atalanta BC;Odilon Kossounou;2;Starting XI;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;3;APIFootball
+Atalanta BC;Berat Djimsiti;3;Starting XI;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;19;APIFootball
+Atalanta BC;Sead Kolašinac;4;Starting XI;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;23;APIFootball
+Atalanta BC;Davide Zappacosta;5;Starting XI;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;77;APIFootball
+Atalanta BC;Marten de Roon;6;Starting XI;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;15;APIFootball
+Atalanta BC;Éderson;7;Starting XI;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;13;APIFootball
+Atalanta BC;Lorenzo Bernasconi;8;Starting XI;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;47;APIFootball
+Atalanta BC;Mario Pašalić;9;Starting XI;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;8;APIFootball
+Atalanta BC;Nicola Zalewski;10;Starting XI;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;59;APIFootball
+Atalanta BC;Gianluca Scamacca;11;Starting XI;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;9;APIFootball
+Atalanta BC;Isak Hien;0;Substitute;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;4;APIFootball
+Atalanta BC;Nikola Krstović;0;Substitute;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;90;APIFootball
+Atalanta BC;Kamaldeen Sulemana;0;Substitute;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;7;APIFootball
+Atalanta BC;Raoul Bellanova;0;Substitute;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;16;APIFootball
+Atalanta BC;Lazar Samardžić;0;Substitute;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;10;APIFootball
+Atalanta BC;Francesco Rossi;0;Substitute;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;31;APIFootball
+Atalanta BC;Marco Sportiello;0;Substitute;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;57;APIFootball
+Atalanta BC;Mitchel Bakker;0;Substitute;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;5;APIFootball
+Atalanta BC;Giorgio Scalvini;0;Substitute;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;42;APIFootball
+Atalanta BC;Honest Ahanor;0;Substitute;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;69;APIFootball
+Atalanta BC;Yunus Musah;0;Substitute;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;6;APIFootball
+Atalanta BC;Dominic Vavassori;0;Substitute;2026-02-17;Borussia Dortmund;736982;UEFA Champions League;45;APIFootball
+AS Monaco;Sebastien Pocognoli;;Coach;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;;APIFootball
+AS Monaco;Philipp Köhn;1;Starting XI;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;16;APIFootball
+AS Monaco;Vanderson;2;Starting XI;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;2;APIFootball
+AS Monaco;Jordan Teze;3;Starting XI;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;4;APIFootball
+AS Monaco;Wout Faes;4;Starting XI;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;25;APIFootball
+AS Monaco;Caio Henrique;5;Starting XI;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;12;APIFootball
+AS Monaco;Lamine Camara;6;Starting XI;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;15;APIFootball
+AS Monaco;Denis Zakaria;7;Starting XI;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;6;APIFootball
+AS Monaco;Maghnes Akliouche;8;Starting XI;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;11;APIFootball
+AS Monaco;Aleksandr Golovin;9;Starting XI;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;10;APIFootball
+AS Monaco;Simon Adingra;10;Starting XI;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;24;APIFootball
+AS Monaco;Folarin Balogun;11;Starting XI;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;9;APIFootball
+AS Monaco;Krépin Diatta;0;Substitute;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;27;APIFootball
+AS Monaco;Aladji Bamba;0;Substitute;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;23;APIFootball
+AS Monaco;Mamadou Coulibaly;0;Substitute;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;28;APIFootball
+AS Monaco;Mika Biereth;0;Substitute;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;14;APIFootball
+AS Monaco;Yann Lienard;0;Substitute;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;50;APIFootball
+AS Monaco;Jules Stawiecki;0;Substitute;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;40;APIFootball
+AS Monaco;Ilane Touré;0;Substitute;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;41;APIFootball
+AS Monaco;Stanis Idumbo Muzambo;0;Substitute;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;17;APIFootball
+AS Monaco;Samuel Nibombe;0;Substitute;2026-02-17;Paris Saint-Germain;736983;UEFA Champions League;44;APIFootball
+SL Benfica;Jose Mourinho;;Coach;2026-02-17;Real Madrid;736981;UEFA Champions League;;APIFootball
+SL Benfica;Anatoliy Trubin;1;Starting XI;2026-02-17;Real Madrid;736981;UEFA Champions League;1;APIFootball
+SL Benfica;Amar Dedić;2;Starting XI;2026-02-17;Real Madrid;736981;UEFA Champions League;17;APIFootball
+SL Benfica;Tomás Araújo;3;Starting XI;2026-02-17;Real Madrid;736981;UEFA Champions League;44;APIFootball
+SL Benfica;Nicolás Otamendi;4;Starting XI;2026-02-17;Real Madrid;736981;UEFA Champions League;30;APIFootball
+SL Benfica;Samuel Dahl;5;Starting XI;2026-02-17;Real Madrid;736981;UEFA Champions League;26;APIFootball
+SL Benfica;Leandro Barreiro;6;Starting XI;2026-02-17;Real Madrid;736981;UEFA Champions League;18;APIFootball
+SL Benfica;Fredrik Aursnes;7;Starting XI;2026-02-17;Real Madrid;736981;UEFA Champions League;8;APIFootball
+SL Benfica;Gianluca Prestianni;8;Starting XI;2026-02-17;Real Madrid;736981;UEFA Champions League;25;APIFootball
+SL Benfica;Rafa Silva;9;Starting XI;2026-02-17;Real Madrid;736981;UEFA Champions League;27;APIFootball
+SL Benfica;Andreas Schjelderup;10;Starting XI;2026-02-17;Real Madrid;736981;UEFA Champions League;21;APIFootball
+SL Benfica;Vangelis Pavlidis;11;Starting XI;2026-02-17;Real Madrid;736981;UEFA Champions League;14;APIFootball
+SL Benfica;Georgiy Sudakov;0;Substitute;2026-02-17;Real Madrid;736981;UEFA Champions League;10;APIFootball
+SL Benfica;Richard Ríos;0;Substitute;2026-02-17;Real Madrid;736981;UEFA Champions League;20;APIFootball
+SL Benfica;Sidny Lopes Cabral;0;Substitute;2026-02-17;Real Madrid;736981;UEFA Champions League;15;APIFootball
+SL Benfica;Dodi Lukebakio;0;Substitute;2026-02-17;Real Madrid;736981;UEFA Champions League;11;APIFootball
+SL Benfica;Diogo Ferreira;0;Substitute;2026-02-17;Real Madrid;736981;UEFA Champions League;50;APIFootball
+SL Benfica;Alexander Bah;0;Substitute;2026-02-17;Real Madrid;736981;UEFA Champions League;6;APIFootball
+SL Benfica;António Silva;0;Substitute;2026-02-17;Real Madrid;736981;UEFA Champions League;4;APIFootball
+SL Benfica;Enzo Barrenechea;0;Substitute;2026-02-17;Real Madrid;736981;UEFA Champions League;5;APIFootball
+SL Benfica;Manuel Silva;0;Substitute;2026-02-17;Real Madrid;736981;UEFA Champions League;16;APIFootball
+SL Benfica;Anísio Cabral;0;Substitute;2026-02-17;Real Madrid;736981;UEFA Champions League;72;APIFootball
+SL Benfica;Franjo Ivanović;0;Substitute;2026-02-17;Real Madrid;736981;UEFA Champions League;9;APIFootball
+SL Benfica;Bruma;0;Substitute;2026-02-17;Real Madrid;736981;UEFA Champions League;7;APIFootball
+Galatasaray;Okan Buruk;;Coach;2026-02-17;Juventus FC;736980;UEFA Champions League;;APIFootball
+Galatasaray;Uğurcan Çakır;1;Starting XI;2026-02-17;Juventus FC;736980;UEFA Champions League;1;APIFootball
+Galatasaray;Roland Sallai;2;Starting XI;2026-02-17;Juventus FC;736980;UEFA Champions League;7;APIFootball
+Galatasaray;Davinson Sánchez;3;Starting XI;2026-02-17;Juventus FC;736980;UEFA Champions League;6;APIFootball
+Galatasaray;Abdülkerim Bardakcı;4;Starting XI;2026-02-17;Juventus FC;736980;UEFA Champions League;42;APIFootball
+Galatasaray;Ismail Jakobs;5;Starting XI;2026-02-17;Juventus FC;736980;UEFA Champions League;4;APIFootball
+Galatasaray;Lucas Torreira;6;Starting XI;2026-02-17;Juventus FC;736980;UEFA Champions League;34;APIFootball
+Galatasaray;Gabriel Sara;7;Starting XI;2026-02-17;Juventus FC;736980;UEFA Champions League;8;APIFootball
+Galatasaray;Barış Alper Yılmaz;8;Starting XI;2026-02-17;Juventus FC;736980;UEFA Champions League;53;APIFootball
+Galatasaray;Yunus Akgün;9;Starting XI;2026-02-17;Juventus FC;736980;UEFA Champions League;11;APIFootball
+Galatasaray;Noa Lang;10;Starting XI;2026-02-17;Juventus FC;736980;UEFA Champions League;77;APIFootball
+Galatasaray;Victor Osimhen;11;Starting XI;2026-02-17;Juventus FC;736980;UEFA Champions League;45;APIFootball
+Galatasaray;Leroy Sané;0;Substitute;2026-02-17;Juventus FC;736980;UEFA Champions League;10;APIFootball
+Galatasaray;Wilfried Singo;0;Substitute;2026-02-17;Juventus FC;736980;UEFA Champions League;90;APIFootball
+Galatasaray;Mauro Icardi;0;Substitute;2026-02-17;Juventus FC;736980;UEFA Champions League;9;APIFootball
+Galatasaray;Eren Elmalı;0;Substitute;2026-02-17;Juventus FC;736980;UEFA Champions League;17;APIFootball
+Galatasaray;Sacha Boey;0;Substitute;2026-02-17;Juventus FC;736980;UEFA Champions League;93;APIFootball
+Galatasaray;Batuhan Şen;0;Substitute;2026-02-17;Juventus FC;736980;UEFA Champions League;12;APIFootball
+Galatasaray;Günay Güvenç;0;Substitute;2026-02-17;Juventus FC;736980;UEFA Champions League;19;APIFootball
+Galatasaray;Kaan Ayhan;0;Substitute;2026-02-17;Juventus FC;736980;UEFA Champions League;23;APIFootball
+Galatasaray;İlkay Gündoğan;0;Substitute;2026-02-17;Juventus FC;736980;UEFA Champions League;20;APIFootball
+Galatasaray;Ahmed Kutucu;0;Substitute;2026-02-17;Juventus FC;736980;UEFA Champions League;21;APIFootball
+Galatasaray;Yáser Asprilla;0;Substitute;2026-02-17;Juventus FC;736980;UEFA Champions League;22;APIFootball
+Club Brugge KV;Ivan Leko;;Coach;2026-02-18;Atl. Madrid;736986;UEFA Champions League;;APIFootball
+Club Brugge KV;Simon Mignolet;1;Starting XI;2026-02-18;Atl. Madrid;736986;UEFA Champions League;22;APIFootball
+Club Brugge KV;Kyriani Sabbe;2;Starting XI;2026-02-18;Atl. Madrid;736986;UEFA Champions League;64;APIFootball
+Club Brugge KV;Joel Ordóñez;3;Starting XI;2026-02-18;Atl. Madrid;736986;UEFA Champions League;4;APIFootball
+Club Brugge KV;Brandon Mechele;4;Starting XI;2026-02-18;Atl. Madrid;736986;UEFA Champions League;44;APIFootball
+Club Brugge KV;Joaquin Seys;5;Starting XI;2026-02-18;Atl. Madrid;736986;UEFA Champions League;65;APIFootball
+Club Brugge KV;Aleksandar Stanković;6;Starting XI;2026-02-18;Atl. Madrid;736986;UEFA Champions League;25;APIFootball
+Club Brugge KV;Raphael Onyedika;7;Starting XI;2026-02-18;Atl. Madrid;736986;UEFA Champions League;15;APIFootball
+Club Brugge KV;Christos Tzolis;8;Starting XI;2026-02-18;Atl. Madrid;736986;UEFA Champions League;8;APIFootball
+Club Brugge KV;Hans Vanaken;9;Starting XI;2026-02-18;Atl. Madrid;736986;UEFA Champions League;20;APIFootball
+Club Brugge KV;Mamadou Diakhon;10;Starting XI;2026-02-18;Atl. Madrid;736986;UEFA Champions League;67;APIFootball
+Club Brugge KV;Nicolò Tresoldi;11;Starting XI;2026-02-18;Atl. Madrid;736986;UEFA Champions League;7;APIFootball
+Club Brugge KV;Romeo Vermant;0;Substitute;2026-02-18;Atl. Madrid;736986;UEFA Champions League;17;APIFootball
+Club Brugge KV;Hugo Siquet;0;Substitute;2026-02-18;Atl. Madrid;736986;UEFA Champions League;41;APIFootball
+Club Brugge KV;Shandre Campbell;0;Substitute;2026-02-18;Atl. Madrid;736986;UEFA Champions League;84;APIFootball
+Club Brugge KV;Bjorn Meijer;0;Substitute;2026-02-18;Atl. Madrid;736986;UEFA Champions League;14;APIFootball
+Club Brugge KV;Félix Lemaréchal;0;Substitute;2026-02-18;Atl. Madrid;736986;UEFA Champions League;80;APIFootball
+Club Brugge KV;Nordin Jackers;0;Substitute;2026-02-18;Atl. Madrid;736986;UEFA Champions League;29;APIFootball
+Club Brugge KV;Vince Osuji;0;Substitute;2026-02-18;Atl. Madrid;736986;UEFA Champions League;24;APIFootball
+Club Brugge KV;Jorne Spileers;0;Substitute;2026-02-18;Atl. Madrid;736986;UEFA Champions League;58;APIFootball
+Club Brugge KV;Ludovit Reis;0;Substitute;2026-02-18;Atl. Madrid;736986;UEFA Champions League;6;APIFootball
+Club Brugge KV;Hugo Vetlesen;0;Substitute;2026-02-18;Atl. Madrid;736986;UEFA Champions League;10;APIFootball
+Club Brugge KV;Gustaf Nilsson;0;Substitute;2026-02-18;Atl. Madrid;736986;UEFA Champions League;19;APIFootball
+Olympiacos Piraeus;Luis Mendilibar Jose;;Coach;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;;APIFootball
+Olympiacos Piraeus;Konstantinos Tzolakis;1;Starting XI;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;88;APIFootball
+Olympiacos Piraeus;Rodinei;2;Starting XI;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;23;APIFootball
+Olympiacos Piraeus;Panagiotis Retsos;3;Starting XI;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;45;APIFootball
+Olympiacos Piraeus;Lorenzo Pirola;4;Starting XI;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;5;APIFootball
+Olympiacos Piraeus;Francisco Ortega;5;Starting XI;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;3;APIFootball
+Olympiacos Piraeus;Christos Mouzakitis;6;Starting XI;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;96;APIFootball
+Olympiacos Piraeus;Santiago Hezze;7;Starting XI;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;32;APIFootball
+Olympiacos Piraeus;Gelson Martins;8;Starting XI;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;10;APIFootball
+Olympiacos Piraeus;Mehdi Taremi;9;Starting XI;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;99;APIFootball
+Olympiacos Piraeus;Daniel Podence;10;Starting XI;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;56;APIFootball
+Olympiacos Piraeus;Ayoub El Kaabi;11;Starting XI;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;9;APIFootball
+Olympiacos Piraeus;Giulian Biancone;0;Substitute;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;4;APIFootball
+Olympiacos Piraeus;André Luiz;0;Substitute;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;17;APIFootball
+Olympiacos Piraeus;Chiquinho;0;Substitute;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;22;APIFootball
+Olympiacos Piraeus;Bruno Onyemaechi;0;Substitute;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;70;APIFootball
+Olympiacos Piraeus;Lorenzo Scipioni;0;Substitute;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;16;APIFootball
+Olympiacos Piraeus;Alexandros Paschalakis;0;Substitute;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;1;APIFootball
+Olympiacos Piraeus;Nikolaos Botis;0;Substitute;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;31;APIFootball
+Olympiacos Piraeus;Alexios Kalogeropoulos;0;Substitute;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;6;APIFootball
+Olympiacos Piraeus;Costinha;0;Substitute;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;20;APIFootball
+Olympiacos Piraeus;Dani García;0;Substitute;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;14;APIFootball
+Olympiacos Piraeus;Diogo Nascimento;0;Substitute;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;8;APIFootball
+Olympiacos Piraeus;Clayton;0;Substitute;2026-02-18;Bayer 04 Leverkusen;736987;UEFA Champions League;19;APIFootball
+FK Bodø/Glimt;Kjetil Knutsen;;Coach;2026-02-18;Inter Milan;736985;UEFA Champions League;;APIFootball
+FK Bodø/Glimt;Nikita Haikin;1;Starting XI;2026-02-18;Inter Milan;736985;UEFA Champions League;12;APIFootball
+FK Bodø/Glimt;Fredrik Sjøvold;2;Starting XI;2026-02-18;Inter Milan;736985;UEFA Champions League;20;APIFootball
+FK Bodø/Glimt;Odin Luras Bjørtuft;3;Starting XI;2026-02-18;Inter Milan;736985;UEFA Champions League;4;APIFootball
+FK Bodø/Glimt;Jostein Gundersen;4;Starting XI;2026-02-18;Inter Milan;736985;UEFA Champions League;6;APIFootball
+FK Bodø/Glimt;Fredrik André Bjørkan;5;Starting XI;2026-02-18;Inter Milan;736985;UEFA Champions League;15;APIFootball
+FK Bodø/Glimt;Håkon Evjen;6;Starting XI;2026-02-18;Inter Milan;736985;UEFA Champions League;26;APIFootball
+FK Bodø/Glimt;Patrick Berg;7;Starting XI;2026-02-18;Inter Milan;736985;UEFA Champions League;7;APIFootball
+FK Bodø/Glimt;Sondre Fet;8;Starting XI;2026-02-18;Inter Milan;736985;UEFA Champions League;19;APIFootball
+FK Bodø/Glimt;Ole Didrik Blomberg;9;Starting XI;2026-02-18;Inter Milan;736985;UEFA Champions League;11;APIFootball
+FK Bodø/Glimt;Kasper Høgh;10;Starting XI;2026-02-18;Inter Milan;736985;UEFA Champions League;9;APIFootball
+FK Bodø/Glimt;Jens Petter Hauge;11;Starting XI;2026-02-18;Inter Milan;736985;UEFA Champions League;10;APIFootball
+FK Bodø/Glimt;Sondre Auklend;0;Substitute;2026-02-18;Inter Milan;736985;UEFA Champions League;8;APIFootball
+FK Bodø/Glimt;Andreas Helmersen;0;Substitute;2026-02-18;Inter Milan;736985;UEFA Champions League;21;APIFootball
+FK Bodø/Glimt;Haitam Aleesami;0;Substitute;2026-02-18;Inter Milan;736985;UEFA Champions League;5;APIFootball
+FK Bodø/Glimt;Isak Dybvik Määttä;0;Substitute;2026-02-18;Inter Milan;736985;UEFA Champions League;25;APIFootball
+FK Bodø/Glimt;Julian Faye Lund;0;Substitute;2026-02-18;Inter Milan;736985;UEFA Champions League;1;APIFootball
+FK Bodø/Glimt;Isak Sjong;0;Substitute;2026-02-18;Inter Milan;736985;UEFA Champions League;45;APIFootball
+FK Bodø/Glimt;Daniel Bassi;0;Substitute;2026-02-18;Inter Milan;736985;UEFA Champions League;24;APIFootball
+FK Bodø/Glimt;Villads Nielsen;0;Substitute;2026-02-18;Inter Milan;736985;UEFA Champions League;2;APIFootball
+FK Bodø/Glimt;Ulrik Saltnes;0;Substitute;2026-02-18;Inter Milan;736985;UEFA Champions League;14;APIFootball
+FK Bodø/Glimt;Anders Klynge;0;Substitute;2026-02-18;Inter Milan;736985;UEFA Champions League;22;APIFootball
+FK Bodø/Glimt;Magnus Riisnæs;0;Substitute;2026-02-18;Inter Milan;736985;UEFA Champions League;23;APIFootball
+FK Bodø/Glimt;August Mikkelsen;0;Substitute;2026-02-18;Inter Milan;736985;UEFA Champions League;94;APIFootball
+Qarabağ FK;Qurban Qurbanov;;Coach;2026-02-18;Newcastle United;736984;UEFA Champions League;;APIFootball
+Qarabağ FK;Mateusz Kochalski;1;Starting XI;2026-02-18;Newcastle United;736984;UEFA Champions League;99;APIFootball
+Qarabağ FK;Matheus Silva;2;Starting XI;2026-02-18;Newcastle United;736984;UEFA Champions League;2;APIFootball
+Qarabağ FK;Bahlul Mustafazada;3;Starting XI;2026-02-18;Newcastle United;736984;UEFA Champions League;13;APIFootball
+Qarabağ FK;Kevin Medina;4;Starting XI;2026-02-18;Newcastle United;736984;UEFA Champions League;81;APIFootball
+Qarabağ FK;Elvin Jafarguliyev;5;Starting XI;2026-02-18;Newcastle United;736984;UEFA Champions League;44;APIFootball
+Qarabağ FK;Pedro Bicalho;6;Starting XI;2026-02-18;Newcastle United;736984;UEFA Champions League;35;APIFootball
+Qarabağ FK;Marko Janković;7;Starting XI;2026-02-18;Newcastle United;736984;UEFA Champions League;8;APIFootball
+Qarabağ FK;Leandro Andrade;8;Starting XI;2026-02-18;Newcastle United;736984;UEFA Champions League;15;APIFootball
+Qarabağ FK;Joni Montiel;9;Starting XI;2026-02-18;Newcastle United;736984;UEFA Champions League;9;APIFootball
+Qarabağ FK;Abdellah Zoubir;10;Starting XI;2026-02-18;Newcastle United;736984;UEFA Champions League;10;APIFootball
+Qarabağ FK;Camilo Durán;11;Starting XI;2026-02-18;Newcastle United;736984;UEFA Champions League;17;APIFootball
+Qarabağ FK;Dani Bolt;0;Substitute;2026-02-18;Newcastle United;736984;UEFA Champions League;18;APIFootball
+Qarabağ FK;Bədavi Hüseynov;0;Substitute;2026-02-18;Newcastle United;736984;UEFA Champions League;55;APIFootball
+Qarabağ FK;Emmanuel Addai;0;Substitute;2026-02-18;Newcastle United;736984;UEFA Champions League;11;APIFootball
+Qarabağ FK;Kady Borges;0;Substitute;2026-02-18;Newcastle United;736984;UEFA Champions League;20;APIFootball
+Qarabağ FK;Musa Qurbanlı;0;Substitute;2026-02-18;Newcastle United;736984;UEFA Champions League;22;APIFootball
+Qarabağ FK;Amin Ramazanov;0;Substitute;2026-02-18;Newcastle United;736984;UEFA Champions League;89;APIFootball
+Qarabağ FK;Fabijan Buntić;0;Substitute;2026-02-18;Newcastle United;736984;UEFA Champions League;97;APIFootball
+Qarabağ FK;Samy Mmaee;0;Substitute;2026-02-18;Newcastle United;736984;UEFA Champions League;3;APIFootball
+Qarabağ FK;Toral Bayramov;0;Substitute;2026-02-18;Newcastle United;736984;UEFA Champions League;27;APIFootball
+Qarabağ FK;Abbas Hüseynov;0;Substitute;2026-02-18;Newcastle United;736984;UEFA Champions League;30;APIFootball
+Qarabağ FK;Oleksiy Kashchuk;0;Substitute;2026-02-18;Newcastle United;736984;UEFA Champions League;21;APIFootball
+Qarabağ FK;Hikmat Cabrayilzada;0;Substitute;2026-02-18;Newcastle United;736984;UEFA Champions League;32;APIFootball
+Manchester City;Pep Guardiola;;Coach;2026-01-28;Galatasaray;659208;UEFA Champions League;;APIFootball
+Manchester City;Gianluigi Donnarumma;1;Starting XI;2026-01-28;Galatasaray;659208;UEFA Champions League;25;APIFootball
+Manchester City;Matheus Nunes;2;Starting XI;2026-01-28;Galatasaray;659208;UEFA Champions League;27;APIFootball
+Manchester City;Abdukodir Khusanov;3;Starting XI;2026-01-28;Galatasaray;659208;UEFA Champions League;45;APIFootball
+Manchester City;Nathan Aké;4;Starting XI;2026-01-28;Galatasaray;659208;UEFA Champions League;6;APIFootball
+Manchester City;Rayan Aït-Nouri;5;Starting XI;2026-01-28;Galatasaray;659208;UEFA Champions League;21;APIFootball
+Manchester City;Bernardo Silva;6;Starting XI;2026-01-28;Galatasaray;659208;UEFA Champions League;20;APIFootball
+Manchester City;Nico O'Reilly;7;Starting XI;2026-01-28;Galatasaray;659208;UEFA Champions League;33;APIFootball
+Manchester City;Rayan Cherki;8;Starting XI;2026-01-28;Galatasaray;659208;UEFA Champions League;10;APIFootball
+Manchester City;Omar Marmoush;9;Starting XI;2026-01-28;Galatasaray;659208;UEFA Champions League;7;APIFootball
+Manchester City;Jérémy Doku;10;Starting XI;2026-01-28;Galatasaray;659208;UEFA Champions League;11;APIFootball
+Manchester City;Erling Haaland;11;Starting XI;2026-01-28;Galatasaray;659208;UEFA Champions League;9;APIFootball
+Manchester City;Phil Foden;0;Substitute;2026-01-28;Galatasaray;659208;UEFA Champions League;47;APIFootball
+Manchester City;Tijjani Reijnders;0;Substitute;2026-01-28;Galatasaray;659208;UEFA Champions League;4;APIFootball
+Manchester City;Nico González;0;Substitute;2026-01-28;Galatasaray;659208;UEFA Champions League;14;APIFootball
+Manchester City;James Trafford;0;Substitute;2026-01-28;Galatasaray;659208;UEFA Champions League;1;APIFootball
+Manchester City;Marcus Bettinelli;0;Substitute;2026-01-28;Galatasaray;659208;UEFA Champions League;13;APIFootball
+Manchester City;Rico Lewis;0;Substitute;2026-01-28;Galatasaray;659208;UEFA Champions League;82;APIFootball
+Manchester City;Max Alleyne;0;Substitute;2026-01-28;Galatasaray;659208;UEFA Champions League;68;APIFootball
+Manchester City;Stephen Mfuni;0;Substitute;2026-01-28;Galatasaray;659208;UEFA Champions League;91;APIFootball
+Manchester City;Charlie Gray;0;Substitute;2026-01-28;Galatasaray;659208;UEFA Champions League;59;APIFootball
+Manchester City;Divine Mukasa;0;Substitute;2026-01-28;Galatasaray;659208;UEFA Champions League;63;APIFootball
+Arsenal FC;Mikel Arteta;;Coach;2026-01-28;Kairat Almaty;659214;UEFA Champions League;;APIFootball
+Arsenal FC;Kepa Arrizabalaga;1;Starting XI;2026-01-28;Kairat Almaty;659214;UEFA Champions League;13;APIFootball
+Arsenal FC;Ben White;2;Starting XI;2026-01-28;Kairat Almaty;659214;UEFA Champions League;4;APIFootball
+Arsenal FC;Cristhian Mosquera;3;Starting XI;2026-01-28;Kairat Almaty;659214;UEFA Champions League;3;APIFootball
+Arsenal FC;Riccardo Calafiori;4;Starting XI;2026-01-28;Kairat Almaty;659214;UEFA Champions League;33;APIFootball
+Arsenal FC;Myles Lewis-Skelly;5;Starting XI;2026-01-28;Kairat Almaty;659214;UEFA Champions League;49;APIFootball
+Arsenal FC;Kai Havertz;6;Starting XI;2026-01-28;Kairat Almaty;659214;UEFA Champions League;29;APIFootball
+Arsenal FC;Christian Nørgaard;7;Starting XI;2026-01-28;Kairat Almaty;659214;UEFA Champions League;16;APIFootball
+Arsenal FC;Eberechi Eze;8;Starting XI;2026-01-28;Kairat Almaty;659214;UEFA Champions League;10;APIFootball
+Arsenal FC;Noni Madueke;9;Starting XI;2026-01-28;Kairat Almaty;659214;UEFA Champions League;20;APIFootball
+Arsenal FC;Viktor Gyökeres;10;Starting XI;2026-01-28;Kairat Almaty;659214;UEFA Champions League;14;APIFootball
+Arsenal FC;Gabriel Martinelli;11;Starting XI;2026-01-28;Kairat Almaty;659214;UEFA Champions League;11;APIFootball
+Arsenal FC;Piero Hincapié;0;Substitute;2026-01-28;Kairat Almaty;659214;UEFA Champions League;5;APIFootball
+Arsenal FC;Martin Ødegaard;0;Substitute;2026-01-28;Kairat Almaty;659214;UEFA Champions League;8;APIFootball
+Arsenal FC;Gabriel Jesus;0;Substitute;2026-01-28;Kairat Almaty;659214;UEFA Champions League;9;APIFootball
+Arsenal FC;Brando Bailey-Joseph;0;Substitute;2026-01-28;Kairat Almaty;659214;UEFA Champions League;81;APIFootball
+Arsenal FC;Tommy Setford;0;Substitute;2026-01-28;Kairat Almaty;659214;UEFA Champions League;35;APIFootball
+Arsenal FC;Jack Porter;0;Substitute;2026-01-28;Kairat Almaty;659214;UEFA Champions League;78;APIFootball
+Arsenal FC;Marli Salmon;0;Substitute;2026-01-28;Kairat Almaty;659214;UEFA Champions League;89;APIFootball
+Arsenal FC;Gabriel Magalhães;0;Substitute;2026-01-28;Kairat Almaty;659214;UEFA Champions League;6;APIFootball
+Arsenal FC;Martín Zubimendi;0;Substitute;2026-01-28;Kairat Almaty;659214;UEFA Champions League;36;APIFootball
+Arsenal FC;Ife Ibrahim;0;Substitute;2026-01-28;Kairat Almaty;659214;UEFA Champions League;72;APIFootball
+Arsenal FC;Bukayo Saka;0;Substitute;2026-01-28;Kairat Almaty;659214;UEFA Champions League;7;APIFootball
+Arsenal FC;Leandro Trossard;0;Substitute;2026-01-28;Kairat Almaty;659214;UEFA Champions League;19;APIFootball
+Chelsea FC;Liam Rosenior;;Coach;2026-01-28;SSC Napoli;659201;UEFA Champions League;;APIFootball
+Chelsea FC;Robert Sánchez;1;Starting XI;2026-01-28;SSC Napoli;659201;UEFA Champions League;1;APIFootball
+Chelsea FC;Malo Gusto;2;Starting XI;2026-01-28;SSC Napoli;659201;UEFA Champions League;27;APIFootball
+Chelsea FC;Reece James;3;Starting XI;2026-01-28;SSC Napoli;659201;UEFA Champions League;24;APIFootball
+Chelsea FC;Wesley Fofana;4;Starting XI;2026-01-28;SSC Napoli;659201;UEFA Champions League;29;APIFootball
+Chelsea FC;Marc Cucurella;5;Starting XI;2026-01-28;SSC Napoli;659201;UEFA Champions League;3;APIFootball
+Chelsea FC;Andrey Santos;6;Starting XI;2026-01-28;SSC Napoli;659201;UEFA Champions League;17;APIFootball
+Chelsea FC;Moisés Caicedo;7;Starting XI;2026-01-28;SSC Napoli;659201;UEFA Champions League;25;APIFootball
+Chelsea FC;Estêvão;8;Starting XI;2026-01-28;SSC Napoli;659201;UEFA Champions League;41;APIFootball
+Chelsea FC;Enzo Fernández;9;Starting XI;2026-01-28;SSC Napoli;659201;UEFA Champions League;8;APIFootball
+Chelsea FC;Pedro Neto;10;Starting XI;2026-01-28;SSC Napoli;659201;UEFA Champions League;7;APIFootball
+Chelsea FC;João Pedro;11;Starting XI;2026-01-28;SSC Napoli;659201;UEFA Champions League;20;APIFootball
+Chelsea FC;Cole Palmer;0;Substitute;2026-01-28;SSC Napoli;659201;UEFA Champions League;10;APIFootball
+Chelsea FC;Trevoh Chalobah;0;Substitute;2026-01-28;SSC Napoli;659201;UEFA Champions League;23;APIFootball
+Chelsea FC;Jamie Gittens;0;Substitute;2026-01-28;SSC Napoli;659201;UEFA Champions League;11;APIFootball
+Chelsea FC;Alejandro Garnacho;0;Substitute;2026-01-28;SSC Napoli;659201;UEFA Champions League;49;APIFootball
+Chelsea FC;Benoît Badiashile;0;Substitute;2026-01-28;SSC Napoli;659201;UEFA Champions League;5;APIFootball
+Chelsea FC;Filip Jørgensen;0;Substitute;2026-01-28;SSC Napoli;659201;UEFA Champions League;12;APIFootball
+Chelsea FC;Max Merrick;0;Substitute;2026-01-28;SSC Napoli;659201;UEFA Champions League;50;APIFootball
+Chelsea FC;Jorrel Hato;0;Substitute;2026-01-28;SSC Napoli;659201;UEFA Champions League;21;APIFootball
+Chelsea FC;Josh Acheampong;0;Substitute;2026-01-28;SSC Napoli;659201;UEFA Champions League;34;APIFootball
+Chelsea FC;Tyrique George;0;Substitute;2026-01-28;SSC Napoli;659201;UEFA Champions League;32;APIFootball
+Chelsea FC;Liam Delap;0;Substitute;2026-01-28;SSC Napoli;659201;UEFA Champions League;9;APIFootball
+Chelsea FC;Marc Guiu;0;Substitute;2026-01-28;SSC Napoli;659201;UEFA Champions League;38;APIFootball
+FC Barcelona;Hansi Flick;;Coach;2026-01-28;FC Copenhagen;659216;UEFA Champions League;;APIFootball
+FC Barcelona;Joan García;1;Starting XI;2026-01-28;FC Copenhagen;659216;UEFA Champions League;13;APIFootball
+FC Barcelona;Jules Koundé;2;Starting XI;2026-01-28;FC Copenhagen;659216;UEFA Champions League;23;APIFootball
+FC Barcelona;Pau Cubarsí;3;Starting XI;2026-01-28;FC Copenhagen;659216;UEFA Champions League;5;APIFootball
+FC Barcelona;Gerard Martín;4;Starting XI;2026-01-28;FC Copenhagen;659216;UEFA Champions League;18;APIFootball
+FC Barcelona;Alejandro Balde;5;Starting XI;2026-01-28;FC Copenhagen;659216;UEFA Champions League;3;APIFootball
+FC Barcelona;Eric García;6;Starting XI;2026-01-28;FC Copenhagen;659216;UEFA Champions League;24;APIFootball
+FC Barcelona;Dani Olmo;7;Starting XI;2026-01-28;FC Copenhagen;659216;UEFA Champions League;20;APIFootball
+FC Barcelona;Lamine Yamal;8;Starting XI;2026-01-28;FC Copenhagen;659216;UEFA Champions League;10;APIFootball
+FC Barcelona;Fermín López;9;Starting XI;2026-01-28;FC Copenhagen;659216;UEFA Champions League;16;APIFootball
+FC Barcelona;Raphinha;10;Starting XI;2026-01-28;FC Copenhagen;659216;UEFA Champions League;11;APIFootball
+FC Barcelona;Robert Lewandowski;11;Starting XI;2026-01-28;FC Copenhagen;659216;UEFA Champions League;9;APIFootball
+FC Barcelona;Marc Bernal;0;Substitute;2026-01-28;FC Copenhagen;659216;UEFA Champions League;22;APIFootball
+FC Barcelona;Ronald Araújo;0;Substitute;2026-01-28;FC Copenhagen;659216;UEFA Champions League;4;APIFootball
+FC Barcelona;Marcus Rashford;0;Substitute;2026-01-28;FC Copenhagen;659216;UEFA Champions League;14;APIFootball
+FC Barcelona;Marc Casadó;0;Substitute;2026-01-28;FC Copenhagen;659216;UEFA Champions League;17;APIFootball
+FC Barcelona;Ferran Torres;0;Substitute;2026-01-28;FC Copenhagen;659216;UEFA Champions League;7;APIFootball
+FC Barcelona;Diego Kochen;0;Substitute;2026-01-28;FC Copenhagen;659216;UEFA Champions League;31;APIFootball
+FC Barcelona;Wojciech Szczęsny;0;Substitute;2026-01-28;FC Copenhagen;659216;UEFA Champions League;25;APIFootball
+FC Barcelona;Jofre Torrents;0;Substitute;2026-01-28;FC Copenhagen;659216;UEFA Champions League;26;APIFootball
+FC Barcelona;Tomás Marqués;0;Substitute;2026-01-28;FC Copenhagen;659216;UEFA Champions League;43;APIFootball
+FC Barcelona;Roony Bardghji;0;Substitute;2026-01-28;FC Copenhagen;659216;UEFA Champions League;28;APIFootball
+Liverpool FC;Arne Slot;;Coach;2026-01-28;Qarabağ FK;659215;UEFA Champions League;;APIFootball
+Liverpool FC;Alisson;1;Starting XI;2026-01-28;Qarabağ FK;659215;UEFA Champions League;1;APIFootball
+Liverpool FC;Jeremie Frimpong;2;Starting XI;2026-01-28;Qarabağ FK;659215;UEFA Champions League;30;APIFootball
+Liverpool FC;Ryan Gravenberch;3;Starting XI;2026-01-28;Qarabağ FK;659215;UEFA Champions League;38;APIFootball
+Liverpool FC;Virgil van Dijk;4;Starting XI;2026-01-28;Qarabağ FK;659215;UEFA Champions League;4;APIFootball
+Liverpool FC;Andrew Robertson;5;Starting XI;2026-01-28;Qarabağ FK;659215;UEFA Champions League;26;APIFootball
+Liverpool FC;Dominik Szoboszlai;6;Starting XI;2026-01-28;Qarabağ FK;659215;UEFA Champions League;8;APIFootball
+Liverpool FC;Alexis Mac Allister;7;Starting XI;2026-01-28;Qarabağ FK;659215;UEFA Champions League;10;APIFootball
+Liverpool FC;Mohamed Salah;8;Starting XI;2026-01-28;Qarabağ FK;659215;UEFA Champions League;11;APIFootball
+Liverpool FC;Florian Wirtz;9;Starting XI;2026-01-28;Qarabağ FK;659215;UEFA Champions League;7;APIFootball
+Liverpool FC;Cody Gakpo;10;Starting XI;2026-01-28;Qarabağ FK;659215;UEFA Champions League;18;APIFootball
+Liverpool FC;Hugo Ekitiké;11;Starting XI;2026-01-28;Qarabağ FK;659215;UEFA Champions League;22;APIFootball
+Liverpool FC;Wataru Endo;0;Substitute;2026-01-28;Qarabağ FK;659215;UEFA Champions League;3;APIFootball
+Liverpool FC;Trey Nyoni;0;Substitute;2026-01-28;Qarabağ FK;659215;UEFA Champions League;42;APIFootball
+Liverpool FC;Rio Ngumoha;0;Substitute;2026-01-28;Qarabağ FK;659215;UEFA Champions League;73;APIFootball
+Liverpool FC;Federico Chiesa;0;Substitute;2026-01-28;Qarabağ FK;659215;UEFA Champions League;14;APIFootball
+Liverpool FC;Amara Nallo;0;Substitute;2026-01-28;Qarabağ FK;659215;UEFA Champions League;65;APIFootball
+Liverpool FC;Giorgi Mamardashvili;0;Substitute;2026-01-28;Qarabağ FK;659215;UEFA Champions League;25;APIFootball
+Liverpool FC;Freddie Woodman;0;Substitute;2026-01-28;Qarabağ FK;659215;UEFA Champions League;28;APIFootball
+Liverpool FC;Miloš Kerkez;0;Substitute;2026-01-28;Qarabağ FK;659215;UEFA Champions League;6;APIFootball
+Liverpool FC;Kieran Morrison;0;Substitute;2026-01-28;Qarabağ FK;659215;UEFA Champions League;68;APIFootball
+Bayern Munich;Vincent Kompany;;Coach;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;;APIFootball
+Bayern Munich;Jonas Urbig;1;Starting XI;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;40;APIFootball
+Bayern Munich;Tom Bischof;2;Starting XI;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;20;APIFootball
+Bayern Munich;Dayot Upamecano;3;Starting XI;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;2;APIFootball
+Bayern Munich;Jonathan Tah;4;Starting XI;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;4;APIFootball
+Bayern Munich;Hiroki Itō;5;Starting XI;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;21;APIFootball
+Bayern Munich;Joshua Kimmich;6;Starting XI;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;6;APIFootball
+Bayern Munich;Aleksandar Pavlović;7;Starting XI;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;45;APIFootball
+Bayern Munich;Lennart Karl;8;Starting XI;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;42;APIFootball
+Bayern Munich;Jamal Musiala;9;Starting XI;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;10;APIFootball
+Bayern Munich;Luis Díaz;10;Starting XI;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;14;APIFootball
+Bayern Munich;Nicolas Jackson;11;Starting XI;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;11;APIFootball
+Bayern Munich;Alphonso Davies;0;Substitute;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;19;APIFootball
+Bayern Munich;Michael Olise;0;Substitute;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;17;APIFootball
+Bayern Munich;Serge Gnabry;0;Substitute;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;7;APIFootball
+Bayern Munich;Harry Kane;0;Substitute;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;9;APIFootball
+Bayern Munich;Sacha Boey;0;Substitute;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;23;APIFootball
+Bayern Munich;Manuel Neuer;0;Substitute;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;1;APIFootball
+Bayern Munich;Sven Ulreich;0;Substitute;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;26;APIFootball
+Bayern Munich;Cassiano Kiala;0;Substitute;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;30;APIFootball
+Bayern Munich;Felipe Chávez;0;Substitute;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;38;APIFootball
+Bayern Munich;Leon Goretzka;0;Substitute;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;8;APIFootball
+Bayern Munich;Wisdom Mike;0;Substitute;2026-01-28;PSV Eindhoven;659209;UEFA Champions League;36;APIFootball
+Tottenham Hotspur;Thomas Frank;;Coach;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;;APIFootball
+Tottenham Hotspur;Guglielmo Vicario;1;Starting XI;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;1;APIFootball
+Tottenham Hotspur;Djed Spence;2;Starting XI;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;24;APIFootball
+Tottenham Hotspur;Cristian Romero;3;Starting XI;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;17;APIFootball
+Tottenham Hotspur;Kevin Danso;4;Starting XI;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;4;APIFootball
+Tottenham Hotspur;Destiny Udogie;5;Starting XI;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;13;APIFootball
+Tottenham Hotspur;João Palhinha;6;Starting XI;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;6;APIFootball
+Tottenham Hotspur;Archie Gray;7;Starting XI;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;14;APIFootball
+Tottenham Hotspur;Wilson Odobert;8;Starting XI;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;28;APIFootball
+Tottenham Hotspur;Pape Matar Sarr;9;Starting XI;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;29;APIFootball
+Tottenham Hotspur;Xavi Simons;10;Starting XI;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;7;APIFootball
+Tottenham Hotspur;Randal Kolo Muani;11;Starting XI;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;39;APIFootball
+Tottenham Hotspur;Dominic Solanke;0;Substitute;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;19;APIFootball
+Tottenham Hotspur;Dane Scarlett;0;Substitute;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;44;APIFootball
+Tottenham Hotspur;Jun'ai Byfield;0;Substitute;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;67;APIFootball
+Tottenham Hotspur;Antonín Kinský;0;Substitute;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;31;APIFootball
+Tottenham Hotspur;Brandon Austin;0;Substitute;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;40;APIFootball
+Tottenham Hotspur;Malachi Hardy;0;Substitute;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;66;APIFootball
+Tottenham Hotspur;James Rowswell;0;Substitute;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;76;APIFootball
+Tottenham Hotspur;Callum Olusesi;0;Substitute;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;52;APIFootball
+Tottenham Hotspur;Tye Hall;0;Substitute;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;89;APIFootball
+Tottenham Hotspur;Rio Kyerematen;0;Substitute;2026-01-28;Eintracht Frankfurt;659205;UEFA Champions League;57;APIFootball
+Sporting CP;Rui Borges;;Coach;2026-01-28;Ath Bilbao;659211;UEFA Champions League;;APIFootball
+Sporting CP;Rui Silva;1;Starting XI;2026-01-28;Ath Bilbao;659211;UEFA Champions League;1;APIFootball
+Sporting CP;Iván Fresneda;2;Starting XI;2026-01-28;Ath Bilbao;659211;UEFA Champions League;22;APIFootball
+Sporting CP;Ousmane Diomande;3;Starting XI;2026-01-28;Ath Bilbao;659211;UEFA Champions League;26;APIFootball
+Sporting CP;Gonçalo Inácio;4;Starting XI;2026-01-28;Ath Bilbao;659211;UEFA Champions League;25;APIFootball
+Sporting CP;Maximiliano Araújo;5;Starting XI;2026-01-28;Ath Bilbao;659211;UEFA Champions League;20;APIFootball
+Sporting CP;Morten Hjulmand;6;Starting XI;2026-01-28;Ath Bilbao;659211;UEFA Champions League;42;APIFootball
+Sporting CP;João Simões;7;Starting XI;2026-01-28;Ath Bilbao;659211;UEFA Champions League;52;APIFootball
+Sporting CP;Geny Catamo;8;Starting XI;2026-01-28;Ath Bilbao;659211;UEFA Champions League;10;APIFootball
+Sporting CP;Daniel Bragança;9;Starting XI;2026-01-28;Ath Bilbao;659211;UEFA Champions League;23;APIFootball
+Sporting CP;Francisco Trincão;10;Starting XI;2026-01-28;Ath Bilbao;659211;UEFA Champions League;17;APIFootball
+Sporting CP;Luis Javier Suárez;11;Starting XI;2026-01-28;Ath Bilbao;659211;UEFA Champions League;97;APIFootball
+Sporting CP;Matheus Reis;0;Substitute;2026-01-28;Ath Bilbao;659211;UEFA Champions League;2;APIFootball
+Sporting CP;Eduardo Quaresma;0;Substitute;2026-01-28;Ath Bilbao;659211;UEFA Champions League;72;APIFootball
+Sporting CP;Hidemasa Morita;0;Substitute;2026-01-28;Ath Bilbao;659211;UEFA Champions League;5;APIFootball
+Sporting CP;Pedro Gonçalves;0;Substitute;2026-01-28;Ath Bilbao;659211;UEFA Champions League;8;APIFootball
+Sporting CP;Alisson Santos;0;Substitute;2026-01-28;Ath Bilbao;659211;UEFA Champions League;27;APIFootball
+Sporting CP;Francisco Silva;0;Substitute;2026-01-28;Ath Bilbao;659211;UEFA Champions League;99;APIFootball
+Sporting CP;João Virgínia;0;Substitute;2026-01-28;Ath Bilbao;659211;UEFA Champions League;12;APIFootball
+Sporting CP;Giorgos Vagiannidis;0;Substitute;2026-01-28;Ath Bilbao;659211;UEFA Champions League;13;APIFootball
+Sporting CP;Ricardo Mangas;0;Substitute;2026-01-28;Ath Bilbao;659211;UEFA Champions League;91;APIFootball
+Sporting CP;Giorgi Kochorashvili;0;Substitute;2026-01-28;Ath Bilbao;659211;UEFA Champions League;14;APIFootball
+Sporting CP;Flavio Goncalves;0;Substitute;2026-01-28;Ath Bilbao;659211;UEFA Champions League;58;APIFootball
+Sporting CP;Rafael Nel;0;Substitute;2026-01-28;Ath Bilbao;659211;UEFA Champions League;90;APIFootball
+SSC Napoli;Antonio Conte;;Coach;2026-01-28;Chelsea FC;659201;UEFA Champions League;;APIFootball
+SSC Napoli;Alex Meret;1;Starting XI;2026-01-28;Chelsea FC;659201;UEFA Champions League;1;APIFootball
+SSC Napoli;Giovanni Di Lorenzo;2;Starting XI;2026-01-28;Chelsea FC;659201;UEFA Champions League;22;APIFootball
+SSC Napoli;Juan Jesus;3;Starting XI;2026-01-28;Chelsea FC;659201;UEFA Champions League;5;APIFootball
+SSC Napoli;Alessandro Buongiorno;4;Starting XI;2026-01-28;Chelsea FC;659201;UEFA Champions League;4;APIFootball
+SSC Napoli;Leonardo Spinazzola;5;Starting XI;2026-01-28;Chelsea FC;659201;UEFA Champions League;37;APIFootball
+SSC Napoli;Stanislav Lobotka;6;Starting XI;2026-01-28;Chelsea FC;659201;UEFA Champions League;68;APIFootball
+SSC Napoli;Scott McTominay;7;Starting XI;2026-01-28;Chelsea FC;659201;UEFA Champions League;8;APIFootball
+SSC Napoli;Mathías Olivera;8;Starting XI;2026-01-28;Chelsea FC;659201;UEFA Champions League;17;APIFootball
+SSC Napoli;Antonio Vergara;9;Starting XI;2026-01-28;Chelsea FC;659201;UEFA Champions League;26;APIFootball
+SSC Napoli;Eljif Elmas;10;Starting XI;2026-01-28;Chelsea FC;659201;UEFA Champions League;20;APIFootball
+SSC Napoli;Rasmus Højlund;11;Starting XI;2026-01-28;Chelsea FC;659201;UEFA Champions League;19;APIFootball
+SSC Napoli;Miguel Gutiérrez;0;Substitute;2026-01-28;Chelsea FC;659201;UEFA Champions League;3;APIFootball
+SSC Napoli;Sam Beukema;0;Substitute;2026-01-28;Chelsea FC;659201;UEFA Champions League;31;APIFootball
+SSC Napoli;Romelu Lukaku;0;Substitute;2026-01-28;Chelsea FC;659201;UEFA Champions League;9;APIFootball
+SSC Napoli;Nikita Contini;0;Substitute;2026-01-28;Chelsea FC;659201;UEFA Champions League;14;APIFootball
+SSC Napoli;David Spinelli;0;Substitute;2026-01-28;Chelsea FC;659201;UEFA Champions League;61;APIFootball
+SSC Napoli;Christian Garofalo;0;Substitute;2026-01-28;Chelsea FC;659201;UEFA Champions League;56;APIFootball
+SSC Napoli;Emmanuele De Chiara;0;Substitute;2026-01-28;Chelsea FC;659201;UEFA Champions League;52;APIFootball
+Olympique Marseille;Roberto De Zerbi;;Coach;2026-01-28;Club Brugge KV;659218;UEFA Champions League;;APIFootball
+Olympique Marseille;Gerónimo Rulli;1;Starting XI;2026-01-28;Club Brugge KV;659218;UEFA Champions League;1;APIFootball
+Olympique Marseille;Amir Murillo;2;Starting XI;2026-01-28;Club Brugge KV;659218;UEFA Champions League;62;APIFootball
+Olympique Marseille;Leonardo Balerdi;3;Starting XI;2026-01-28;Club Brugge KV;659218;UEFA Champions League;5;APIFootball
+Olympique Marseille;Nayef Aguerd;4;Starting XI;2026-01-28;Club Brugge KV;659218;UEFA Champions League;21;APIFootball
+Olympique Marseille;Facundo Medina;5;Starting XI;2026-01-28;Club Brugge KV;659218;UEFA Champions League;32;APIFootball
+Olympique Marseille;Geoffrey Kondogbia;6;Starting XI;2026-01-28;Club Brugge KV;659218;UEFA Champions League;19;APIFootball
+Olympique Marseille;Pierre-Emile Højbjerg;7;Starting XI;2026-01-28;Club Brugge KV;659218;UEFA Champions League;23;APIFootball
+Olympique Marseille;Mason Greenwood;8;Starting XI;2026-01-28;Club Brugge KV;659218;UEFA Champions League;10;APIFootball
+Olympique Marseille;Hamed Junior Traorè;9;Starting XI;2026-01-28;Club Brugge KV;659218;UEFA Champions League;20;APIFootball
+Olympique Marseille;Timothy Weah;10;Starting XI;2026-01-28;Club Brugge KV;659218;UEFA Champions League;22;APIFootball
+Olympique Marseille;Amine Gouiri;11;Starting XI;2026-01-28;Club Brugge KV;659218;UEFA Champions League;9;APIFootball
+Olympique Marseille;Igor Paixão;0;Substitute;2026-01-28;Club Brugge KV;659218;UEFA Champions League;14;APIFootball
+Olympique Marseille;Pierre-Emerick Aubameyang;0;Substitute;2026-01-28;Club Brugge KV;659218;UEFA Champions League;97;APIFootball
+Olympique Marseille;Matt O'Riley;0;Substitute;2026-01-28;Club Brugge KV;659218;UEFA Champions League;17;APIFootball
+Olympique Marseille;Bilal Nadir;0;Substitute;2026-01-28;Club Brugge KV;659218;UEFA Champions League;26;APIFootball
+Olympique Marseille;Jeffrey de Lange;0;Substitute;2026-01-28;Club Brugge KV;659218;UEFA Champions League;12;APIFootball
+Olympique Marseille;Jelle Van Neck;0;Substitute;2026-01-28;Club Brugge KV;659218;UEFA Champions League;40;APIFootball
+Olympique Marseille;Conrad Jaden Egan-Riley;0;Substitute;2026-01-28;Club Brugge KV;659218;UEFA Champions League;4;APIFootball
+Olympique Marseille;Angel Gomes;0;Substitute;2026-01-28;Club Brugge KV;659218;UEFA Champions League;8;APIFootball
+Olympique Marseille;Arthur Vermeeren;0;Substitute;2026-01-28;Club Brugge KV;659218;UEFA Champions League;18;APIFootball
+Olympique Marseille;Darryl Bakola;0;Substitute;2026-01-28;Club Brugge KV;659218;UEFA Champions League;50;APIFootball
+Eintracht Frankfurt;Dennis Schmitt;;Coach;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;;APIFootball
+Eintracht Frankfurt;Kauã Santos;1;Starting XI;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;40;APIFootball
+Eintracht Frankfurt;Aurèle Amenda;2;Starting XI;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;5;APIFootball
+Eintracht Frankfurt;Robin Koch;3;Starting XI;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;4;APIFootball
+Eintracht Frankfurt;Arthur Theate;4;Starting XI;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;3;APIFootball
+Eintracht Frankfurt;Aurélio Buta;5;Starting XI;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;24;APIFootball
+Eintracht Frankfurt;Oscar Højlund;6;Starting XI;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;6;APIFootball
+Eintracht Frankfurt;Ellyes Skhiri;7;Starting XI;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;15;APIFootball
+Eintracht Frankfurt;Hugo Larsson;8;Starting XI;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;16;APIFootball
+Eintracht Frankfurt;Nathaniel Brown;9;Starting XI;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;21;APIFootball
+Eintracht Frankfurt;Mario Götze;10;Starting XI;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;27;APIFootball
+Eintracht Frankfurt;Ansgar Knauff;11;Starting XI;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;7;APIFootball
+Eintracht Frankfurt;Ritsu Doan;0;Substitute;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;20;APIFootball
+Eintracht Frankfurt;Mahmoud Dahoud;0;Substitute;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;18;APIFootball
+Eintracht Frankfurt;Farès Chaïbi;0;Substitute;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;8;APIFootball
+Eintracht Frankfurt;Jean-Mattéo Bahoya;0;Substitute;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;19;APIFootball
+Eintracht Frankfurt;Marvin Dills;0;Substitute;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;45;APIFootball
+Eintracht Frankfurt;Michael Zetterer;0;Substitute;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;23;APIFootball
+Eintracht Frankfurt;Jens Grahl;0;Substitute;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;33;APIFootball
+Eintracht Frankfurt;Rasmus Kristensen;0;Substitute;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;13;APIFootball
+Eintracht Frankfurt;Fousseny Doumbia;0;Substitute;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;41;APIFootball
+Eintracht Frankfurt;Nnamdi Collins;0;Substitute;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;34;APIFootball
+Eintracht Frankfurt;Timothy Chandler;0;Substitute;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;22;APIFootball
+Eintracht Frankfurt;Alexander Staff;0;Substitute;2026-01-28;Tottenham Hotspur;659205;UEFA Champions League;53;APIFootball
+Athletic Bilbao;;;;;;;;;
+PSV Eindhoven;Peter Bosz;;Coach;2026-01-28;Bayern Munich;659209;UEFA Champions League;;APIFootball
+PSV Eindhoven;Matěj Kovář;1;Starting XI;2026-01-28;Bayern Munich;659209;UEFA Champions League;32;APIFootball
+PSV Eindhoven;Sergiño Dest;2;Starting XI;2026-01-28;Bayern Munich;659209;UEFA Champions League;8;APIFootball
+PSV Eindhoven;Jerdy Schouten;3;Starting XI;2026-01-28;Bayern Munich;659209;UEFA Champions League;22;APIFootball
+PSV Eindhoven;Armando Obispo;4;Starting XI;2026-01-28;Bayern Munich;659209;UEFA Champions League;4;APIFootball
+PSV Eindhoven;Mauro Júnior;5;Starting XI;2026-01-28;Bayern Munich;659209;UEFA Champions League;17;APIFootball
+PSV Eindhoven;Dennis Man;6;Starting XI;2026-01-28;Bayern Munich;659209;UEFA Champions League;27;APIFootball
+PSV Eindhoven;Paul Wanner;7;Starting XI;2026-01-28;Bayern Munich;659209;UEFA Champions League;10;APIFootball
+PSV Eindhoven;Joey Veerman;8;Starting XI;2026-01-28;Bayern Munich;659209;UEFA Champions League;23;APIFootball
+PSV Eindhoven;Ivan Perišić;9;Starting XI;2026-01-28;Bayern Munich;659209;UEFA Champions League;5;APIFootball
+PSV Eindhoven;Guus Til;10;Starting XI;2026-01-28;Bayern Munich;659209;UEFA Champions League;20;APIFootball
+PSV Eindhoven;Ismael Saibari;11;Starting XI;2026-01-28;Bayern Munich;659209;UEFA Champions League;34;APIFootball
+PSV Eindhoven;Noah Fernandez;0;Substitute;2026-01-28;Bayern Munich;659209;UEFA Champions League;31;APIFootball
+PSV Eindhoven;Couhaib Driouech;0;Substitute;2026-01-28;Bayern Munich;659209;UEFA Champions League;11;APIFootball
+PSV Eindhoven;Niek Schiks;0;Substitute;2026-01-28;Bayern Munich;659209;UEFA Champions League;24;APIFootball
+PSV Eindhoven;Tijn Smolenaars;0;Substitute;2026-01-28;Bayern Munich;659209;UEFA Champions League;51;APIFootball
+PSV Eindhoven;Kiliann Sildillia;0;Substitute;2026-01-28;Bayern Munich;659209;UEFA Champions League;25;APIFootball
+PSV Eindhoven;Ryan Flamingo;0;Substitute;2026-01-28;Bayern Munich;659209;UEFA Champions League;6;APIFootball
+PSV Eindhoven;Adamo Nagalo;0;Substitute;2026-01-28;Bayern Munich;659209;UEFA Champions League;39;APIFootball
+PSV Eindhoven;Anass Salah-Eddine;0;Substitute;2026-01-28;Bayern Munich;659209;UEFA Champions League;2;APIFootball
+PSV Eindhoven;Nicolas Verkooijen;0;Substitute;2026-01-28;Bayern Munich;659209;UEFA Champions League;50;APIFootball
+PSV Eindhoven;Esmir Bajraktarević;0;Substitute;2026-01-28;Bayern Munich;659209;UEFA Champions League;19;APIFootball
+Villarreal CF;Marcelino;;Coach;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;;APIFootball
+Villarreal CF;Arnau Tenas;1;Starting XI;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;25;APIFootball
+Villarreal CF;Pau Navarro;2;Starting XI;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;26;APIFootball
+Villarreal CF;Rafa Marín;3;Starting XI;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;4;APIFootball
+Villarreal CF;Renato Veiga;4;Starting XI;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;12;APIFootball
+Villarreal CF;Sergi Cardona;5;Starting XI;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;23;APIFootball
+Villarreal CF;Tajon Buchanan;6;Starting XI;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;17;APIFootball
+Villarreal CF;Santi Comesaña;7;Starting XI;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;14;APIFootball
+Villarreal CF;Thomas Partey;8;Starting XI;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;16;APIFootball
+Villarreal CF;Alassane Diatta;9;Starting XI;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;38;APIFootball
+Villarreal CF;Tani Oluwaseyi;10;Starting XI;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;21;APIFootball
+Villarreal CF;Nicolas Pépé;11;Starting XI;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;19;APIFootball
+Villarreal CF;Hugo Lopez;0;Substitute;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;32;APIFootball
+Villarreal CF;Georges Mikautadze;0;Substitute;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;9;APIFootball
+Villarreal CF;Dani Parejo;0;Substitute;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;10;APIFootball
+Villarreal CF;Daniel Budesca;0;Substitute;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;30;APIFootball
+Villarreal CF;Pape Gueye;0;Substitute;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;18;APIFootball
+Villarreal CF;Luiz Júnior;0;Substitute;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;1;APIFootball
+Villarreal CF;Diego Conde;0;Substitute;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;13;APIFootball
+Villarreal CF;Alfonso Pedraza;0;Substitute;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;24;APIFootball
+Villarreal CF;Alberto Moleiro;0;Substitute;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;20;APIFootball
+Villarreal CF;Gerard Moreno;0;Substitute;2026-01-28;Bayer 04 Leverkusen;659210;UEFA Champions League;7;APIFootball
+Ajax Amsterdam;John Heitinga;;Coach;2026-01-28;Olympiacos Piraeus;;UEFA Champions League;;Manual
+Ajax Amsterdam;Vítězslav Jaroš;1;Starting XI;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;1;APIFootball
+Ajax Amsterdam;Anton Gaaei;2;Starting XI;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;3;APIFootball
+Ajax Amsterdam;Josip Šutalo;3;Starting XI;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;37;APIFootball
+Ajax Amsterdam;Youri Baas;4;Starting XI;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;15;APIFootball
+Ajax Amsterdam;Owen Wijndal;5;Starting XI;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;5;APIFootball
+Ajax Amsterdam;Youri Regeer;6;Starting XI;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;6;APIFootball
+Ajax Amsterdam;Sean Steur;7;Starting XI;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;48;APIFootball
+Ajax Amsterdam;Oscar Gloukh;8;Starting XI;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;10;APIFootball
+Ajax Amsterdam;Davy Klaassen;9;Starting XI;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;18;APIFootball
+Ajax Amsterdam;Mika Godts;10;Starting XI;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;11;APIFootball
+Ajax Amsterdam;Kasper Dolberg;11;Starting XI;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;9;APIFootball
+Ajax Amsterdam;Oliver Edvardsen;0;Substitute;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;17;APIFootball
+Ajax Amsterdam;Rayane Bounida;0;Substitute;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;43;APIFootball
+Ajax Amsterdam;Jorthy Mokio;0;Substitute;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;24;APIFootball
+Ajax Amsterdam;Wout Weghorst;0;Substitute;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;25;APIFootball
+Ajax Amsterdam;Pharrel Nash;0;Substitute;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;66;APIFootball
+Ajax Amsterdam;Paul Reverson;0;Substitute;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;52;APIFootball
+Ajax Amsterdam;Joeri Heerkens;0;Substitute;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;12;APIFootball
+Ajax Amsterdam;Aaron Bouwman;0;Substitute;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;30;APIFootball
+Ajax Amsterdam;Mylo van der Lans;0;Substitute;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;53;APIFootball
+Ajax Amsterdam;Gerald Alders;0;Substitute;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;41;APIFootball
+Ajax Amsterdam;Lucas Rosa;0;Substitute;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;2;APIFootball
+Ajax Amsterdam;Kian Fitz-Jim;0;Substitute;2026-01-28;Olympiacos Piraeus;659212;UEFA Champions League;28;APIFootball
+SK Slavia Prague;Jindřich Trpišovský;;Coach;2026-01-28;Paphos FC;659206;UEFA Champions League;;APIFootball
+SK Slavia Prague;Jindřich Staněk;1;Starting XI;2026-01-28;Paphos FC;659206;UEFA Champions League;36;APIFootball
+SK Slavia Prague;David Zima;2;Starting XI;2026-01-28;Paphos FC;659206;UEFA Champions League;4;APIFootball
+SK Slavia Prague;Igoh Ogbu;3;Starting XI;2026-01-28;Paphos FC;659206;UEFA Champions League;5;APIFootball
+SK Slavia Prague;Štěpán Chaloupek;4;Starting XI;2026-01-28;Paphos FC;659206;UEFA Champions League;2;APIFootball
+SK Slavia Prague;David Douděra;5;Starting XI;2026-01-28;Paphos FC;659206;UEFA Champions League;21;APIFootball
+SK Slavia Prague;Oscar Dorley;6;Starting XI;2026-01-28;Paphos FC;659206;UEFA Champions League;19;APIFootball
+SK Slavia Prague;Michal Sadílek;7;Starting XI;2026-01-28;Paphos FC;659206;UEFA Champions League;23;APIFootball
+SK Slavia Prague;Youssoupha Mbodji;8;Starting XI;2026-01-28;Paphos FC;659206;UEFA Champions League;12;APIFootball
+SK Slavia Prague;Muhammed-Cham Saračević;9;Starting XI;2026-01-28;Paphos FC;659206;UEFA Champions League;7;APIFootball
+SK Slavia Prague;Lukáš Provod;10;Starting XI;2026-01-28;Paphos FC;659206;UEFA Champions League;17;APIFootball
+SK Slavia Prague;Erik Prekop;11;Starting XI;2026-01-28;Paphos FC;659206;UEFA Champions League;31;APIFootball
+SK Slavia Prague;Youssoupha Sanyang;0;Substitute;2026-01-28;Paphos FC;659206;UEFA Champions League;11;APIFootball
+SK Slavia Prague;Jan Bořil;0;Substitute;2026-01-28;Paphos FC;659206;UEFA Champions League;18;APIFootball
+SK Slavia Prague;Tomáš Chorý;0;Substitute;2026-01-28;Paphos FC;659206;UEFA Champions League;25;APIFootball
+SK Slavia Prague;Daiki Hashioka;0;Substitute;2026-01-28;Paphos FC;659206;UEFA Champions League;8;APIFootball
+SK Slavia Prague;Vasil Kušej;0;Substitute;2026-01-28;Paphos FC;659206;UEFA Champions League;9;APIFootball
+SK Slavia Prague;Jakub Markovič;0;Substitute;2026-01-28;Paphos FC;659206;UEFA Champions League;35;APIFootball
+SK Slavia Prague;Adam Rezek;0;Substitute;2026-01-28;Paphos FC;659206;UEFA Champions League;40;APIFootball
+SK Slavia Prague;Elias Pitak;0;Substitute;2026-01-28;Paphos FC;659206;UEFA Champions League;51;APIFootball
+SK Slavia Prague;Marek Naskos;0;Substitute;2026-01-28;Paphos FC;659206;UEFA Champions League;46;APIFootball
+SK Slavia Prague;Mojmír Chytil;0;Substitute;2026-01-28;Paphos FC;659206;UEFA Champions League;13;APIFootball
+SK Slavia Prague;Ivan Schranz;0;Substitute;2026-01-28;Paphos FC;659206;UEFA Champions League;26;APIFootball
+SK Slavia Prague;Samuel Pikolon;0;Substitute;2026-01-28;Paphos FC;659206;UEFA Champions League;49;APIFootball
+Union Saint-Gilloise;David Hubert;;Coach;2026-01-28;Atalanta BC;659213;UEFA Champions League;;APIFootball
+Union Saint-Gilloise;Kjell Scherpen;1;Starting XI;2026-01-28;Atalanta BC;659213;UEFA Champions League;37;APIFootball
+Union Saint-Gilloise;Anan Khalaili;2;Starting XI;2026-01-28;Atalanta BC;659213;UEFA Champions League;25;APIFootball
+Union Saint-Gilloise;Kevin Mac Allister;3;Starting XI;2026-01-28;Atalanta BC;659213;UEFA Champions League;5;APIFootball
+Union Saint-Gilloise;Christian Burgess;4;Starting XI;2026-01-28;Atalanta BC;659213;UEFA Champions League;16;APIFootball
+Union Saint-Gilloise;Ross Sykes;5;Starting XI;2026-01-28;Atalanta BC;659213;UEFA Champions League;26;APIFootball
+Union Saint-Gilloise;Louis Patris;6;Starting XI;2026-01-28;Atalanta BC;659213;UEFA Champions League;27;APIFootball
+Union Saint-Gilloise;Raul Florucz;7;Starting XI;2026-01-28;Atalanta BC;659213;UEFA Champions League;30;APIFootball
+Union Saint-Gilloise;Adem Zorgane;8;Starting XI;2026-01-28;Atalanta BC;659213;UEFA Champions League;8;APIFootball
+Union Saint-Gilloise;Kamiel Van de Perre;9;Starting XI;2026-01-28;Atalanta BC;659213;UEFA Champions League;6;APIFootball
+Union Saint-Gilloise;Guilherme Smith;10;Starting XI;2026-01-28;Atalanta BC;659213;UEFA Champions League;11;APIFootball
+Union Saint-Gilloise;Anouar Ait El Hadj;11;Starting XI;2026-01-28;Atalanta BC;659213;UEFA Champions League;10;APIFootball
+Union Saint-Gilloise;Rob Schoofs;0;Substitute;2026-01-28;Atalanta BC;659213;UEFA Champions League;17;APIFootball
+Union Saint-Gilloise;Mohammed Fuseini;0;Substitute;2026-01-28;Atalanta BC;659213;UEFA Champions League;7;APIFootball
+Union Saint-Gilloise;Ousseynou Niang;0;Substitute;2026-01-28;Atalanta BC;659213;UEFA Champions League;22;APIFootball
+Union Saint-Gilloise;Fedde Leysen;0;Substitute;2026-01-28;Atalanta BC;659213;UEFA Champions League;48;APIFootball
+Union Saint-Gilloise;Vic Chambaere;0;Substitute;2026-01-28;Atalanta BC;659213;UEFA Champions League;1;APIFootball
+Union Saint-Gilloise;Nathan Huygevelde;0;Substitute;2026-01-28;Atalanta BC;659213;UEFA Champions League;35;APIFootball
+Union Saint-Gilloise;Youssef Hamoutahar;0;Substitute;2026-01-28;Atalanta BC;659213;UEFA Champions League;39;APIFootball
+Union Saint-Gilloise;Sekou Keita;0;Substitute;2026-01-28;Atalanta BC;659213;UEFA Champions League;32;APIFootball
+Union Saint-Gilloise;Soulaimane Berradi;0;Substitute;2026-01-28;Atalanta BC;659213;UEFA Champions League;33;APIFootball
+FC Copenhagen;Jacob Neestrup Hansen;;Coach;2026-01-28;FC Barcelona;659216;UEFA Champions League;;APIFootball
+FC Copenhagen;Dominik Kotarski;1;Starting XI;2026-01-28;FC Barcelona;659216;UEFA Champions League;1;APIFootball
+FC Copenhagen;Birger Meling;2;Starting XI;2026-01-28;FC Barcelona;659216;UEFA Champions League;24;APIFootball
+FC Copenhagen;Gabriel Pereira;3;Starting XI;2026-01-28;FC Barcelona;659216;UEFA Champions League;5;APIFootball
+FC Copenhagen;Junnosuke Suzuki;4;Starting XI;2026-01-28;FC Barcelona;659216;UEFA Champions League;20;APIFootball
+FC Copenhagen;Pantelis Hatzidiakos;5;Starting XI;2026-01-28;FC Barcelona;659216;UEFA Champions League;6;APIFootball
+FC Copenhagen;Marcos López;6;Starting XI;2026-01-28;FC Barcelona;659216;UEFA Champions League;15;APIFootball
+FC Copenhagen;Elias Achouri;7;Starting XI;2026-01-28;FC Barcelona;659216;UEFA Champions League;30;APIFootball
+FC Copenhagen;Mohamed Elyounoussi;8;Starting XI;2026-01-28;FC Barcelona;659216;UEFA Champions League;10;APIFootball
+FC Copenhagen;William Clem;9;Starting XI;2026-01-28;FC Barcelona;659216;UEFA Champions League;36;APIFootball
+FC Copenhagen;Jordan Larsson;10;Starting XI;2026-01-28;FC Barcelona;659216;UEFA Champions League;11;APIFootball
+FC Copenhagen;Viktor Bjarki Dadason;11;Starting XI;2026-01-28;FC Barcelona;659216;UEFA Champions League;39;APIFootball
+FC Copenhagen;Viktor Claesson;0;Substitute;2026-01-28;FC Barcelona;659216;UEFA Champions League;7;APIFootball
+FC Copenhagen;Mads Emil Madsen;0;Substitute;2026-01-28;FC Barcelona;659216;UEFA Champions League;21;APIFootball
+FC Copenhagen;Robert;0;Substitute;2026-01-28;FC Barcelona;659216;UEFA Champions League;16;APIFootball
+FC Copenhagen;Youssoufa Moukoko;0;Substitute;2026-01-28;FC Barcelona;659216;UEFA Champions League;9;APIFootball
+FC Copenhagen;Oliver Højer;0;Substitute;2026-01-28;FC Barcelona;659216;UEFA Champions League;38;APIFootball
+FC Copenhagen;Oscar Gadeberg Buur;0;Substitute;2026-01-28;FC Barcelona;659216;UEFA Champions League;61;APIFootball
+FC Copenhagen;Rúnar Alex Rúnarsson;0;Substitute;2026-01-28;FC Barcelona;659216;UEFA Champions League;31;APIFootball
+FC Copenhagen;Graham Ankamafio;0;Substitute;2026-01-28;FC Barcelona;659216;UEFA Champions League;42;APIFootball
+FC Copenhagen;Munashe Garananga;0;Substitute;2026-01-28;FC Barcelona;659216;UEFA Champions League;4;APIFootball
+FC Copenhagen;Jonathan Moalem;0;Substitute;2026-01-28;FC Barcelona;659216;UEFA Champions League;29;APIFootball
+FC Copenhagen;Liam West;0;Substitute;2026-01-28;FC Barcelona;659216;UEFA Champions League;49;APIFootball
+Paphos FC;Juan Carlos Carcedo Mardones;;Coach;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;;APIFootball
+Paphos FC;Jay Gorter;1;Starting XI;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;1;APIFootball
+Paphos FC;Bruno;2;Starting XI;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;7;APIFootball
+Paphos FC;Derrick Luckassen;3;Starting XI;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;23;APIFootball
+Paphos FC;David Luiz;4;Starting XI;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;4;APIFootball
+Paphos FC;Kostas Pileas;5;Starting XI;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;2;APIFootball
+Paphos FC;Pêpê;6;Starting XI;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;88;APIFootball
+Paphos FC;Vlad Dragomir;7;Starting XI;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;30;APIFootball
+Paphos FC;Jajá;8;Starting XI;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;11;APIFootball
+Paphos FC;Domingos Quina;9;Starting XI;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;8;APIFootball
+Paphos FC;Mislav Oršić;10;Starting XI;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;17;APIFootball
+Paphos FC;Anderson Silva;11;Starting XI;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;33;APIFootball
+Paphos FC;Mons Bassouamina;0;Substitute;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;9;APIFootball
+Paphos FC;Ken Sema;0;Substitute;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;12;APIFootball
+Paphos FC;Landry Dimata;0;Substitute;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;10;APIFootball
+Paphos FC;Petros Petrou;0;Substitute;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;82;APIFootball
+Paphos FC;Neofytos Michael;0;Substitute;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;93;APIFootball
+Paphos FC;Bruno Langa;0;Substitute;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;25;APIFootball
+Paphos FC;David Goldar;0;Substitute;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;5;APIFootball
+Paphos FC;Georgios Michael;0;Substitute;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;42;APIFootball
+Paphos FC;Pedro Caldieraro;0;Substitute;2026-01-28;SK Slavia Prague;659206;UEFA Champions League;87;APIFootball
+Kairat Almaty;Rafael Urazbakhtin;;Coach;2026-01-28;Arsenal FC;;UEFA Champions League;;Manual
+Kairat Almaty;Temirlan Anarbekov;1;Starting XI;2026-01-28;Arsenal FC;659214;UEFA Champions League;77;APIFootball
+Kairat Almaty;Aleksandr Shirobokov;2;Starting XI;2026-01-28;Arsenal FC;659214;UEFA Champions League;25;APIFootball
+Kairat Almaty;Aleksandr Martynovich;3;Starting XI;2026-01-28;Arsenal FC;659214;UEFA Champions League;14;APIFootball
+Kairat Almaty;Egor Sorokin;4;Starting XI;2026-01-28;Arsenal FC;659214;UEFA Champions League;80;APIFootball
+Kairat Almaty;Erkin Tapalov;5;Starting XI;2026-01-28;Arsenal FC;659214;UEFA Champions League;20;APIFootball
+Kairat Almaty;Dan Glazer;6;Starting XI;2026-01-28;Arsenal FC;659214;UEFA Champions League;18;APIFootball
+Kairat Almaty;Adilet Sadybekov;7;Starting XI;2026-01-28;Arsenal FC;659214;UEFA Champions League;6;APIFootball
+Kairat Almaty;Luís Mata;8;Starting XI;2026-01-28;Arsenal FC;659214;UEFA Champions League;3;APIFootball
+Kairat Almaty;Aleksandr Mrynskiy;9;Starting XI;2026-01-28;Arsenal FC;659214;UEFA Champions League;24;APIFootball
+Kairat Almaty;Edmilson;10;Starting XI;2026-01-28;Arsenal FC;659214;UEFA Champions League;26;APIFootball
+Kairat Almaty;Jorginho;11;Starting XI;2026-01-28;Arsenal FC;659214;UEFA Champions League;7;APIFootball
+Kairat Almaty;Valeriy Gromyko;0;Substitute;2026-01-28;Arsenal FC;659214;UEFA Champions League;55;APIFootball
+Kairat Almaty;Ricardinho;0;Substitute;2026-01-28;Arsenal FC;659214;UEFA Champions League;99;APIFootball
+Kairat Almaty;Lev Kurgin;0;Substitute;2026-01-28;Arsenal FC;659214;UEFA Champions League;5;APIFootball
+Kairat Almaty;Damir Kasabulat;0;Substitute;2026-01-28;Arsenal FC;659214;UEFA Champions League;4;APIFootball
+Kairat Almaty;Ramazan Bagdat;0;Substitute;2026-01-28;Arsenal FC;659214;UEFA Champions League;89;APIFootball
+Kairat Almaty;Danila Buch;0;Substitute;2026-01-28;Arsenal FC;659214;UEFA Champions League;41;APIFootball
+Kairat Almaty;Sherkhan Kalmurza;0;Substitute;2026-01-28;Arsenal FC;659214;UEFA Champions League;82;APIFootball
+Kairat Almaty;Jug Stanojev;0;Substitute;2026-01-28;Arsenal FC;659214;UEFA Champions League;33;APIFootball
+Athletic Bilbao;Ernesto Valverde;;Coach;2026-01-28;Sporting CP;;UEFA Champions League;;Manual
+Athletic Bilbao;Unai Simón;1;Starting XI;2026-01-28;Sporting CP;;UEFA Champions League;1;Manual
+Athletic Bilbao;Gorosabel;2;Starting XI;2026-01-28;Sporting CP;;UEFA Champions League;2;Manual
+Athletic Bilbao;Predes;3;Starting XI;2026-01-28;Sporting CP;;UEFA Champions League;4;Manual
+Athletic Bilbao;Berchiche;4;Starting XI;2026-01-28;Sporting CP;;UEFA Champions League;17;Manual
+Athletic Bilbao;Adama Boiro;5;Starting XI;2026-01-28;Sporting CP;;UEFA Champions League;19;Manual
+Athletic Bilbao;Ruiz De Galarreta;6;Starting XI;2026-01-28;Sporting CP;;UEFA Champions League;16;Manual
+Athletic Bilbao;Alejandro Rego;7;Starting XI;2026-01-28;Sporting CP;;UEFA Champions League;30;Manual
+Athletic Bilbao;Gomez;8;Starting XI;2026-01-28;Sporting CP;;UEFA Champions League;20;Manual
+Athletic Bilbao;Sancet;9;Starting XI;2026-01-28;Sporting CP;;UEFA Champions League;8;Manual
+Athletic Bilbao;Navarro;10;Starting XI;2026-01-28;Sporting CP;;UEFA Champions League;23;Manual
+Athletic Bilbao;Guruzeta;11;Starting XI;2026-01-28;Sporting CP;;UEFA Champions League;11;Manual
+Athletic Bilbao;Padilla;0;Substitute;2026-01-28;Sporting CP;;UEFA Champions League;27;Manual
+Athletic Bilbao;Vesga;0;Substitute;2026-01-28;Sporting CP;;UEFA Champions League;6;Manual
+Athletic Bilbao;Berenguer;0;Substitute;2026-01-28;Sporting CP;;UEFA Champions League;7;Manual
+Athletic Bilbao;Jesús Areso;0;Substitute;2026-01-28;Sporting CP;;UEFA Champions League;12;Manual
+Athletic Bilbao;Iñigo Lekue;0;Substitute;2026-01-28;Sporting CP;;UEFA Champions League;15;Manual
+Athletic Bilbao;Serrano;0;Substitute;2026-01-28;Sporting CP;;UEFA Champions League;22;Manual
+Athletic Bilbao;Asier Hierro;0;Substitute;2026-01-28;Sporting CP;;UEFA Champions League;31;Manual
+Athletic Bilbao;Jon De Luis;0;Substitute;2026-01-28;Sporting CP;;UEFA Champions League;34;Manual
+Athletic Bilbao;Ibon Sanchez;0;Substitute;2026-01-28;Sporting CP;;UEFA Champions League;35;Manual
+Athletic Bilbao;Elijah Gift;0;Substitute;2026-01-28;Sporting CP;;UEFA Champions League;40;Manual
+Athletic Bilbao;Selton Sánchez;0;Substitute;2026-01-28;Sporting CP;;UEFA Champions League;44;Manual
+Atlético de Madrid;Diego Pablo Simeone;;Coach;2026-01-28;Bodo/Glimt;;UEFA Champions League;;Manual
+Atlético de Madrid;J Oblak;1;Starting XI;2026-01-28;Bodo/Glimt;;UEFA Champions League;13;Manual
+Atlético de Madrid;M Llorente;2;Starting XI;2026-01-28;Bodo/Glimt;;UEFA Champions League;14;Manual
+Atlético de Madrid;M Pubill;3;Starting XI;2026-01-28;Bodo/Glimt;;UEFA Champions League;18;Manual
+Atlético de Madrid;J Giménez;4;Starting XI;2026-01-28;Bodo/Glimt;;UEFA Champions League;2;Manual
+Atlético de Madrid;D Hancko;5;Starting XI;2026-01-28;Bodo/Glimt;;UEFA Champions League;17;Manual
+Atlético de Madrid;A Baena;6;Starting XI;2026-01-28;Bodo/Glimt;;UEFA Champions League;10;Manual
+Atlético de Madrid;P Barrios Rivas;7;Starting XI;2026-01-28;Bodo/Glimt;;UEFA Champions League;8;Manual
+Atlético de Madrid;Coke;8;Starting XI;2026-01-28;Bodo/Glimt;;UEFA Champions League;6;Manual
+Atlético de Madrid;N González;9;Starting XI;2026-01-28;Bodo/Glimt;;UEFA Champions League;23;Manual
+Atlético de Madrid;J Álvarez;10;Starting XI;2026-01-28;Bodo/Glimt;;UEFA Champions League;19;Manual
+Atlético de Madrid;A Sørloth;11;Starting XI;2026-01-28;Bodo/Glimt;;UEFA Champions League;9;Manual
+Atlético de Madrid;J Musso;0;Substitute;2026-01-28;Bodo/Glimt;;UEFA Champions League;1;Manual
+Atlético de Madrid;S Esquivel;0;Substitute;2026-01-28;Bodo/Glimt;;UEFA Champions League;31;Manual
+Atlético de Madrid;M Ruggeri;0;Substitute;2026-01-28;Bodo/Glimt;;UEFA Champions League;3;Manual
+Atlético de Madrid;J de Souza Cardoso;0;Substitute;2026-01-28;Bodo/Glimt;;UEFA Champions League;5;Manual
+Atlético de Madrid;T Almada;0;Substitute;2026-01-28;Bodo/Glimt;;UEFA Champions League;11;Manual
+Atlético de Madrid;C Lenglet;0;Substitute;2026-01-28;Bodo/Glimt;;UEFA Champions League;15;Manual
+Atlético de Madrid;N Molina;0;Substitute;2026-01-28;Bodo/Glimt;;UEFA Champions League;16;Manual
+Atlético de Madrid;G Simeone;0;Substitute;2026-01-28;Bodo/Glimt;;UEFA Champions League;20;Manual
+Atlético de Madrid;R Le Normand;0;Substitute;2026-01-28;Bodo/Glimt;;UEFA Champions League;24;Manual

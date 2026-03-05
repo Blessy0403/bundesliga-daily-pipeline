@@ -1,0 +1,379 @@
+team_name,player_name,position,status,match_date,opponent,match_id,competition,shirt_number,source
+FC Augsburg,Sandro Wagner,,Coach,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,,APIFootball
+FC Augsburg,Finn Dahmen,1,Starting XI,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,1,APIFootball
+FC Augsburg,Noahkai Banks,2,Starting XI,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,40,APIFootball
+FC Augsburg,Keven Schlotterbeck,3,Starting XI,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,31,APIFootball
+FC Augsburg,Cedric Zesiger,4,Starting XI,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,16,APIFootball
+FC Augsburg,Anton Kade,5,Starting XI,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,30,APIFootball
+FC Augsburg,Kristijan Jakić,6,Starting XI,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,17,APIFootball
+FC Augsburg,Han-Noah Massengo,7,Starting XI,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,4,APIFootball
+FC Augsburg,Robin Fellhauer,8,Starting XI,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,19,APIFootball
+FC Augsburg,Mert Kömür,9,Starting XI,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,36,APIFootball
+FC Augsburg,Alexis Claude-Maurice,10,Starting XI,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,20,APIFootball
+FC Augsburg,Michael Gregoritsch,11,Starting XI,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,38,APIFootball
+FC Augsburg,Marius Wolf,0,Substitute,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,27,APIFootball
+FC Augsburg,Rodrigo Ribeiro,0,Substitute,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,21,APIFootball
+FC Augsburg,Dimitrios Giannoulis,0,Substitute,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,13,APIFootball
+FC Augsburg,Elvis Rexhbeçaj,0,Substitute,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,8,APIFootball
+FC Augsburg,Fabian Rieder,0,Substitute,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,32,APIFootball
+FC Augsburg,Nediljko Labrović,0,Substitute,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,22,APIFootball
+FC Augsburg,Arthur Chaves,0,Substitute,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,34,APIFootball
+FC Augsburg,Yannik Keitel,0,Substitute,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,14,APIFootball
+FC Augsburg,Ismael Gharbi,0,Substitute,2026-02-15,1. FC Heidenheim 1846,617346,Bundesliga,11,APIFootball
+FC Bayern München,Vincent Kompany,,Coach,2026-02-14,SV Werder Bremen,617351,Bundesliga,,APIFootball
+FC Bayern München,Manuel Neuer,1,Starting XI,2026-02-14,SV Werder Bremen,617351,Bundesliga,1,APIFootball
+FC Bayern München,Josip Stanišić,2,Starting XI,2026-02-14,SV Werder Bremen,617351,Bundesliga,44,APIFootball
+FC Bayern München,Jonathan Tah,3,Starting XI,2026-02-14,SV Werder Bremen,617351,Bundesliga,4,APIFootball
+FC Bayern München,Min-jae Kim,4,Starting XI,2026-02-14,SV Werder Bremen,617351,Bundesliga,3,APIFootball
+FC Bayern München,Konrad Laimer,5,Starting XI,2026-02-14,SV Werder Bremen,617351,Bundesliga,27,APIFootball
+FC Bayern München,Joshua Kimmich,6,Starting XI,2026-02-14,SV Werder Bremen,617351,Bundesliga,6,APIFootball
+FC Bayern München,Leon Goretzka,7,Starting XI,2026-02-14,SV Werder Bremen,617351,Bundesliga,8,APIFootball
+FC Bayern München,Lennart Karl,8,Starting XI,2026-02-14,SV Werder Bremen,617351,Bundesliga,42,APIFootball
+FC Bayern München,Serge Gnabry,9,Starting XI,2026-02-14,SV Werder Bremen,617351,Bundesliga,7,APIFootball
+FC Bayern München,Luis Díaz,10,Starting XI,2026-02-14,SV Werder Bremen,617351,Bundesliga,14,APIFootball
+FC Bayern München,Harry Kane,11,Starting XI,2026-02-14,SV Werder Bremen,617351,Bundesliga,9,APIFootball
+FC Bayern München,Jonas Urbig,0,Substitute,2026-02-14,SV Werder Bremen,617351,Bundesliga,40,APIFootball
+FC Bayern München,Alphonso Davies,0,Substitute,2026-02-14,SV Werder Bremen,617351,Bundesliga,19,APIFootball
+FC Bayern München,Jamal Musiala,0,Substitute,2026-02-14,SV Werder Bremen,617351,Bundesliga,10,APIFootball
+FC Bayern München,Tom Bischof,0,Substitute,2026-02-14,SV Werder Bremen,617351,Bundesliga,20,APIFootball
+FC Bayern München,Nicolas Jackson,0,Substitute,2026-02-14,SV Werder Bremen,617351,Bundesliga,11,APIFootball
+FC Bayern München,Sven Ulreich,0,Substitute,2026-02-14,SV Werder Bremen,617351,Bundesliga,26,APIFootball
+FC Bayern München,Dayot Upamecano,0,Substitute,2026-02-14,SV Werder Bremen,617351,Bundesliga,2,APIFootball
+FC Bayern München,Hiroki Itō,0,Substitute,2026-02-14,SV Werder Bremen,617351,Bundesliga,21,APIFootball
+FC Bayern München,Aleksandar Pavlović,0,Substitute,2026-02-14,SV Werder Bremen,617351,Bundesliga,45,APIFootball
+Bayer 04 Leverkusen,Kasper Hjulmand,,Coach,2026-02-14,FC St. Pauli,617349,Bundesliga,,APIFootball
+Bayer 04 Leverkusen,Janis Blaswich,1,Starting XI,2026-02-14,FC St. Pauli,617349,Bundesliga,28,APIFootball
+Bayer 04 Leverkusen,Jarell Quansah,2,Starting XI,2026-02-14,FC St. Pauli,617349,Bundesliga,4,APIFootball
+Bayer 04 Leverkusen,Robert Andrich,3,Starting XI,2026-02-14,FC St. Pauli,617349,Bundesliga,8,APIFootball
+Bayer 04 Leverkusen,Edmond Tapsoba,4,Starting XI,2026-02-14,FC St. Pauli,617349,Bundesliga,12,APIFootball
+Bayer 04 Leverkusen,Lucas Vázquez,5,Starting XI,2026-02-14,FC St. Pauli,617349,Bundesliga,21,APIFootball
+Bayer 04 Leverkusen,Exequiel Palacios,6,Starting XI,2026-02-14,FC St. Pauli,617349,Bundesliga,25,APIFootball
+Bayer 04 Leverkusen,Aleix García,7,Starting XI,2026-02-14,FC St. Pauli,617349,Bundesliga,24,APIFootball
+Bayer 04 Leverkusen,Alejandro Grimaldo,8,Starting XI,2026-02-14,FC St. Pauli,617349,Bundesliga,20,APIFootball
+Bayer 04 Leverkusen,Ibrahim Maza,9,Starting XI,2026-02-14,FC St. Pauli,617349,Bundesliga,30,APIFootball
+Bayer 04 Leverkusen,Ernest Poku,10,Starting XI,2026-02-14,FC St. Pauli,617349,Bundesliga,19,APIFootball
+Bayer 04 Leverkusen,Patrik Schick,11,Starting XI,2026-02-14,FC St. Pauli,617349,Bundesliga,14,APIFootball
+Bayer 04 Leverkusen,Malik Tillman,0,Substitute,2026-02-14,FC St. Pauli,617349,Bundesliga,10,APIFootball
+Bayer 04 Leverkusen,Arthur,0,Substitute,2026-02-14,FC St. Pauli,617349,Bundesliga,13,APIFootball
+Bayer 04 Leverkusen,Christian Kofane,0,Substitute,2026-02-14,FC St. Pauli,617349,Bundesliga,35,APIFootball
+Bayer 04 Leverkusen,Jonas Hofmann,0,Substitute,2026-02-14,FC St. Pauli,617349,Bundesliga,7,APIFootball
+Bayer 04 Leverkusen,Martin Terrier,0,Substitute,2026-02-14,FC St. Pauli,617349,Bundesliga,11,APIFootball
+Bayer 04 Leverkusen,Jonas Omlin,0,Substitute,2026-02-14,FC St. Pauli,617349,Bundesliga,18,APIFootball
+Bayer 04 Leverkusen,Loïc Badé,0,Substitute,2026-02-14,FC St. Pauli,617349,Bundesliga,5,APIFootball
+Bayer 04 Leverkusen,Tim Oermann,0,Substitute,2026-02-14,FC St. Pauli,617349,Bundesliga,15,APIFootball
+Bayer 04 Leverkusen,Ezequiel Fernández,0,Substitute,2026-02-14,FC St. Pauli,617349,Bundesliga,6,APIFootball
+Borussia Dortmund,Niko Kovac,,Coach,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,,APIFootball
+Borussia Dortmund,Gregor Kobel,1,Starting XI,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,1,APIFootball
+Borussia Dortmund,Niklas Süle,2,Starting XI,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,25,APIFootball
+Borussia Dortmund,Waldemar Anton,3,Starting XI,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,3,APIFootball
+Borussia Dortmund,Ramy Bensebaini,4,Starting XI,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,5,APIFootball
+Borussia Dortmund,Julian Ryerson,5,Starting XI,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,26,APIFootball
+Borussia Dortmund,Jobe Bellingham,6,Starting XI,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,7,APIFootball
+Borussia Dortmund,Felix Nmecha,7,Starting XI,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,8,APIFootball
+Borussia Dortmund,Daniel Svensson,8,Starting XI,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,24,APIFootball
+Borussia Dortmund,Maximilian Beier,9,Starting XI,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,14,APIFootball
+Borussia Dortmund,Julian Brandt,10,Starting XI,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,10,APIFootball
+Borussia Dortmund,Serhou Guirassy,11,Starting XI,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,9,APIFootball
+Borussia Dortmund,Luca Reggiani,0,Substitute,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,49,APIFootball
+Borussia Dortmund,Carney Chukwuemeka,0,Substitute,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,17,APIFootball
+Borussia Dortmund,Fábio Silva,0,Substitute,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,21,APIFootball
+Borussia Dortmund,Marcel Sabitzer,0,Substitute,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,20,APIFootball
+Borussia Dortmund,Karim Adeyemi,0,Substitute,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,27,APIFootball
+Borussia Dortmund,Alexander Meyer,0,Substitute,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,33,APIFootball
+Borussia Dortmund,Yan Couto,0,Substitute,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,2,APIFootball
+Borussia Dortmund,Salih Özcan,0,Substitute,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,6,APIFootball
+Borussia Dortmund,Samuele Inacio,0,Substitute,2026-02-13,1. FSV Mainz 05,617352,Bundesliga,40,APIFootball
+Borussia Mönchengladbach,Eugen Polanski,,Coach,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,,APIFootball
+Borussia Mönchengladbach,Moritz Nicolas,1,Starting XI,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,33,APIFootball
+Borussia Mönchengladbach,Philipp Sander,2,Starting XI,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,16,APIFootball
+Borussia Mönchengladbach,Nico Elvedi,3,Starting XI,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,30,APIFootball
+Borussia Mönchengladbach,Kota Takai,4,Starting XI,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,14,APIFootball
+Borussia Mönchengladbach,Yannik Engelhardt,5,Starting XI,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,6,APIFootball
+Borussia Mönchengladbach,Jens Castrop,6,Starting XI,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,17,APIFootball
+Borussia Mönchengladbach,Rocco Reitz,7,Starting XI,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,27,APIFootball
+Borussia Mönchengladbach,Kevin Stöger,8,Starting XI,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,7,APIFootball
+Borussia Mönchengladbach,Lukas Ullrich,9,Starting XI,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,26,APIFootball
+Borussia Mönchengladbach,Franck Honorat,10,Starting XI,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,9,APIFootball
+Borussia Mönchengladbach,Haris Tabaković,11,Starting XI,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,15,APIFootball
+Borussia Mönchengladbach,Shuto Machino,0,Substitute,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,18,APIFootball
+Borussia Mönchengladbach,Joseph Scally,0,Substitute,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,29,APIFootball
+Borussia Mönchengladbach,Hugo Bolin,0,Substitute,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,38,APIFootball
+Borussia Mönchengladbach,Wael Mohya,0,Substitute,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,36,APIFootball
+Borussia Mönchengladbach,Jan Olschowsky,0,Substitute,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,23,APIFootball
+Borussia Mönchengladbach,Marvin Friedrich,0,Substitute,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,5,APIFootball
+Borussia Mönchengladbach,Fabio Chiarodia,0,Substitute,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,2,APIFootball
+Borussia Mönchengladbach,Florian Neuhaus,0,Substitute,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,10,APIFootball
+Borussia Mönchengladbach,Jan Urbich,0,Substitute,2026-02-14,Eintracht Frankfurt,617354,Bundesliga,40,APIFootball
+Eintracht Frankfurt,Albert Riera,,Coach,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,,APIFootball
+Eintracht Frankfurt,Kauã Santos,1,Starting XI,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,40,APIFootball
+Eintracht Frankfurt,Rasmus Kristensen,2,Starting XI,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,13,APIFootball
+Eintracht Frankfurt,Aurèle Amenda,3,Starting XI,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,5,APIFootball
+Eintracht Frankfurt,Robin Koch,4,Starting XI,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,4,APIFootball
+Eintracht Frankfurt,Ayoube Amaimouni-Echghouyab,5,Starting XI,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,29,APIFootball
+Eintracht Frankfurt,Mario Götze,6,Starting XI,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,27,APIFootball
+Eintracht Frankfurt,Hugo Larsson,7,Starting XI,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,16,APIFootball
+Eintracht Frankfurt,Nathaniel Brown,8,Starting XI,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,21,APIFootball
+Eintracht Frankfurt,Ritsu Doan,9,Starting XI,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,20,APIFootball
+Eintracht Frankfurt,Jean-Mattéo Bahoya,10,Starting XI,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,19,APIFootball
+Eintracht Frankfurt,Arnaud Kalimuendo,11,Starting XI,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,25,APIFootball
+Eintracht Frankfurt,Mahmoud Dahoud,0,Substitute,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,18,APIFootball
+Eintracht Frankfurt,Nnamdi Collins,0,Substitute,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,34,APIFootball
+Eintracht Frankfurt,Ansgar Knauff,0,Substitute,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,7,APIFootball
+Eintracht Frankfurt,Love Arrhov,0,Substitute,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,31,APIFootball
+Eintracht Frankfurt,Ellyes Skhiri,0,Substitute,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,15,APIFootball
+Eintracht Frankfurt,Jens Grahl,0,Substitute,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,33,APIFootball
+Eintracht Frankfurt,Michael Zetterer,0,Substitute,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,23,APIFootball
+Eintracht Frankfurt,Keita Kosugi,0,Substitute,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,26,APIFootball
+Eintracht Frankfurt,Elias Baum,0,Substitute,2026-02-14,Borussia Mönchengladbach,617354,Bundesliga,2,APIFootball
+Hamburger SV,Merlin Polzin,,Coach,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,,APIFootball
+Hamburger SV,Daniel Heuer Fernandes,1,Starting XI,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,1,APIFootball
+Hamburger SV,Warmed Omari,2,Starting XI,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,17,APIFootball
+Hamburger SV,Jordan Torunarigha,3,Starting XI,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,25,APIFootball
+Hamburger SV,Nicolás Capaldo,4,Starting XI,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,24,APIFootball
+Hamburger SV,Bakery Jatta,5,Starting XI,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,18,APIFootball
+Hamburger SV,Fábio Vieira,6,Starting XI,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,20,APIFootball
+Hamburger SV,Nicolai Remberg,7,Starting XI,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,21,APIFootball
+Hamburger SV,Miro Muheim,8,Starting XI,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,28,APIFootball
+Hamburger SV,Ransford Yeboah Königsdörffer,9,Starting XI,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,11,APIFootball
+Hamburger SV,Philip Otele,10,Starting XI,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,27,APIFootball
+Hamburger SV,Robert Glatzel,11,Starting XI,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,9,APIFootball
+Hamburger SV,William Mikelbrencis,0,Substitute,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,2,APIFootball
+Hamburger SV,Yussuf Poulsen,0,Substitute,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,15,APIFootball
+Hamburger SV,Rayan Philippe,0,Substitute,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,14,APIFootball
+Hamburger SV,Daniel Elfadli,0,Substitute,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,8,APIFootball
+Hamburger SV,Giorgi Gocholeishvili,0,Substitute,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,16,APIFootball
+Hamburger SV,Sander Tangvik,0,Substitute,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,12,APIFootball
+Hamburger SV,Jean-Luc Dompé,0,Substitute,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,7,APIFootball
+Hamburger SV,Damion Downs,0,Substitute,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,19,APIFootball
+Hamburger SV,Otto Stange,0,Substitute,2026-02-20,1. FSV Mainz 05,617358,Bundesliga,49,APIFootball
+1. FC Heidenheim 1846,Frank Schmidt,,Coach,2026-02-15,FC Augsburg,617346,Bundesliga,,APIFootball
+1. FC Heidenheim 1846,Diant Ramaj,1,Starting XI,2026-02-15,FC Augsburg,617346,Bundesliga,41,APIFootball
+1. FC Heidenheim 1846,Marnon Busch,2,Starting XI,2026-02-15,FC Augsburg,617346,Bundesliga,2,APIFootball
+1. FC Heidenheim 1846,Patrick Mainka,3,Starting XI,2026-02-15,FC Augsburg,617346,Bundesliga,6,APIFootball
+1. FC Heidenheim 1846,Benedikt Gimber,4,Starting XI,2026-02-15,FC Augsburg,617346,Bundesliga,5,APIFootball
+1. FC Heidenheim 1846,Arijon Ibrahimović,5,Starting XI,2026-02-15,FC Augsburg,617346,Bundesliga,22,APIFootball
+1. FC Heidenheim 1846,Julian Niehues,6,Starting XI,2026-02-15,FC Augsburg,617346,Bundesliga,16,APIFootball
+1. FC Heidenheim 1846,Jan Schöppner,7,Starting XI,2026-02-15,FC Augsburg,617346,Bundesliga,3,APIFootball
+1. FC Heidenheim 1846,Hennes Behrens,8,Starting XI,2026-02-15,FC Augsburg,617346,Bundesliga,26,APIFootball
+1. FC Heidenheim 1846,Eren Dinkçi,9,Starting XI,2026-02-15,FC Augsburg,617346,Bundesliga,8,APIFootball
+1. FC Heidenheim 1846,Christian Joe Conteh,10,Starting XI,2026-02-15,FC Augsburg,617346,Bundesliga,10,APIFootball
+1. FC Heidenheim 1846,Stefan Schimmer,11,Starting XI,2026-02-15,FC Augsburg,617346,Bundesliga,9,APIFootball
+1. FC Heidenheim 1846,Sirlord Conteh,0,Substitute,2026-02-15,FC Augsburg,617346,Bundesliga,31,APIFootball
+1. FC Heidenheim 1846,Marvin Pieringer,0,Substitute,2026-02-15,FC Augsburg,617346,Bundesliga,18,APIFootball
+1. FC Heidenheim 1846,Budu Zivzivadze,0,Substitute,2026-02-15,FC Augsburg,617346,Bundesliga,11,APIFootball
+1. FC Heidenheim 1846,Adrian Beck,0,Substitute,2026-02-15,FC Augsburg,617346,Bundesliga,21,APIFootball
+1. FC Heidenheim 1846,Mathias Honsak,0,Substitute,2026-02-15,FC Augsburg,617346,Bundesliga,17,APIFootball
+1. FC Heidenheim 1846,Frank Feller,0,Substitute,2026-02-15,FC Augsburg,617346,Bundesliga,40,APIFootball
+1. FC Heidenheim 1846,Tim Siersleben,0,Substitute,2026-02-15,FC Augsburg,617346,Bundesliga,4,APIFootball
+1. FC Heidenheim 1846,Leonidas Stergiou,0,Substitute,2026-02-15,FC Augsburg,617346,Bundesliga,25,APIFootball
+1. FC Heidenheim 1846,Luca Kerber,0,Substitute,2026-02-15,FC Augsburg,617346,Bundesliga,20,APIFootball
+TSG 1899 Hoffenheim,Christian Ilzer,,Coach,2026-02-14,SC Freiburg,617348,Bundesliga,,APIFootball
+TSG 1899 Hoffenheim,Oliver Baumann,1,Starting XI,2026-02-14,SC Freiburg,617348,Bundesliga,1,APIFootball
+TSG 1899 Hoffenheim,Vladimír Coufal,2,Starting XI,2026-02-14,SC Freiburg,617348,Bundesliga,34,APIFootball
+TSG 1899 Hoffenheim,Robin Hranáč,3,Starting XI,2026-02-14,SC Freiburg,617348,Bundesliga,2,APIFootball
+TSG 1899 Hoffenheim,Ozan Kabak,4,Starting XI,2026-02-14,SC Freiburg,617348,Bundesliga,5,APIFootball
+TSG 1899 Hoffenheim,Albian Hajdari,5,Starting XI,2026-02-14,SC Freiburg,617348,Bundesliga,21,APIFootball
+TSG 1899 Hoffenheim,Grischa Prömel,6,Starting XI,2026-02-14,SC Freiburg,617348,Bundesliga,6,APIFootball
+TSG 1899 Hoffenheim,Leon Avdullahu,7,Starting XI,2026-02-14,SC Freiburg,617348,Bundesliga,7,APIFootball
+TSG 1899 Hoffenheim,Wouter Burger,8,Starting XI,2026-02-14,SC Freiburg,617348,Bundesliga,18,APIFootball
+TSG 1899 Hoffenheim,Andrej Kramarić,9,Starting XI,2026-02-14,SC Freiburg,617348,Bundesliga,27,APIFootball
+TSG 1899 Hoffenheim,Fisnik Asllani,10,Starting XI,2026-02-14,SC Freiburg,617348,Bundesliga,11,APIFootball
+TSG 1899 Hoffenheim,Bazoumana Touré,11,Starting XI,2026-02-14,SC Freiburg,617348,Bundesliga,29,APIFootball
+TSG 1899 Hoffenheim,Alexander Prass,0,Substitute,2026-02-14,SC Freiburg,617348,Bundesliga,22,APIFootball
+TSG 1899 Hoffenheim,Max Moerstedt,0,Substitute,2026-02-14,SC Freiburg,617348,Bundesliga,33,APIFootball
+TSG 1899 Hoffenheim,Ihlas Bebou,0,Substitute,2026-02-14,SC Freiburg,617348,Bundesliga,9,APIFootball
+TSG 1899 Hoffenheim,Valentin Gendrey,0,Substitute,2026-02-14,SC Freiburg,617348,Bundesliga,15,APIFootball
+TSG 1899 Hoffenheim,Luca Philipp,0,Substitute,2026-02-14,SC Freiburg,617348,Bundesliga,37,APIFootball
+TSG 1899 Hoffenheim,Valentin Lässig,0,Substitute,2026-02-14,SC Freiburg,617348,Bundesliga,49,APIFootball
+TSG 1899 Hoffenheim,Kelven Frees,0,Substitute,2026-02-14,SC Freiburg,617348,Bundesliga,45,APIFootball
+TSG 1899 Hoffenheim,Luka Duric,0,Substitute,2026-02-14,SC Freiburg,617348,Bundesliga,48,APIFootball
+TSG 1899 Hoffenheim,Muhammed Damar,0,Substitute,2026-02-14,SC Freiburg,617348,Bundesliga,10,APIFootball
+1. FC Köln,Lukas Kwasniok,,Coach,2026-02-14,VfB Stuttgart,617347,Bundesliga,,APIFootball
+1. FC Köln,Marvin Schwäbe,1,Starting XI,2026-02-14,VfB Stuttgart,617347,Bundesliga,1,APIFootball
+1. FC Köln,Sebastian Sebulonsen,2,Starting XI,2026-02-14,VfB Stuttgart,617347,Bundesliga,28,APIFootball
+1. FC Köln,Joel Schmied,3,Starting XI,2026-02-14,VfB Stuttgart,617347,Bundesliga,2,APIFootball
+1. FC Köln,Eric Martel,4,Starting XI,2026-02-14,VfB Stuttgart,617347,Bundesliga,6,APIFootball
+1. FC Köln,Cenk Özkaçar,5,Starting XI,2026-02-14,VfB Stuttgart,617347,Bundesliga,39,APIFootball
+1. FC Köln,Kristoffer Lund,6,Starting XI,2026-02-14,VfB Stuttgart,617347,Bundesliga,32,APIFootball
+1. FC Köln,Jan Thielmann,7,Starting XI,2026-02-14,VfB Stuttgart,617347,Bundesliga,29,APIFootball
+1. FC Köln,Tom Krauß,8,Starting XI,2026-02-14,VfB Stuttgart,617347,Bundesliga,5,APIFootball
+1. FC Köln,Jakub Kamiński,9,Starting XI,2026-02-14,VfB Stuttgart,617347,Bundesliga,16,APIFootball
+1. FC Köln,Marius Bülter,10,Starting XI,2026-02-14,VfB Stuttgart,617347,Bundesliga,30,APIFootball
+1. FC Köln,Ragnar Ache,11,Starting XI,2026-02-14,VfB Stuttgart,617347,Bundesliga,9,APIFootball
+1. FC Köln,Said El Mala,0,Substitute,2026-02-14,VfB Stuttgart,617347,Bundesliga,13,APIFootball
+1. FC Köln,Luca Waldschmidt,0,Substitute,2026-02-14,VfB Stuttgart,617347,Bundesliga,7,APIFootball
+1. FC Köln,Denis Huseinbašić,0,Substitute,2026-02-14,VfB Stuttgart,617347,Bundesliga,8,APIFootball
+1. FC Köln,Florian Kainz,0,Substitute,2026-02-14,VfB Stuttgart,617347,Bundesliga,11,APIFootball
+1. FC Köln,Fynn Schenten,0,Substitute,2026-02-14,VfB Stuttgart,617347,Bundesliga,40,APIFootball
+1. FC Köln,Ron-Robert Zieler,0,Substitute,2026-02-14,VfB Stuttgart,617347,Bundesliga,20,APIFootball
+1. FC Köln,Rav van den Berg,0,Substitute,2026-02-14,VfB Stuttgart,617347,Bundesliga,33,APIFootball
+1. FC Köln,David Fürst,0,Substitute,2026-02-14,VfB Stuttgart,617347,Bundesliga,49,APIFootball
+1. FC Köln,Felipe Chávez,0,Substitute,2026-02-14,VfB Stuttgart,617347,Bundesliga,27,APIFootball
+RB Leipzig,Ole Werner,,Coach,2026-02-15,VfL Wolfsburg,617353,Bundesliga,,APIFootball
+RB Leipzig,Péter Gulácsi,1,Starting XI,2026-02-15,VfL Wolfsburg,617353,Bundesliga,1,APIFootball
+RB Leipzig,Benjamin Henrichs,2,Starting XI,2026-02-15,VfL Wolfsburg,617353,Bundesliga,39,APIFootball
+RB Leipzig,Willi Orbán,3,Starting XI,2026-02-15,VfL Wolfsburg,617353,Bundesliga,4,APIFootball
+RB Leipzig,Nicolas Seiwald,4,Starting XI,2026-02-15,VfL Wolfsburg,617353,Bundesliga,13,APIFootball
+RB Leipzig,Max Finkgräfe,5,Starting XI,2026-02-15,VfL Wolfsburg,617353,Bundesliga,35,APIFootball
+RB Leipzig,Xaver Schlager,6,Starting XI,2026-02-15,VfL Wolfsburg,617353,Bundesliga,24,APIFootball
+RB Leipzig,Christoph Baumgartner,7,Starting XI,2026-02-15,VfL Wolfsburg,617353,Bundesliga,14,APIFootball
+RB Leipzig,Yan Diomande,8,Starting XI,2026-02-15,VfL Wolfsburg,617353,Bundesliga,49,APIFootball
+RB Leipzig,Brajan Gruda,9,Starting XI,2026-02-15,VfL Wolfsburg,617353,Bundesliga,10,APIFootball
+RB Leipzig,Antonio Nusa,10,Starting XI,2026-02-15,VfL Wolfsburg,617353,Bundesliga,7,APIFootball
+RB Leipzig,Conrad Harder,11,Starting XI,2026-02-15,VfL Wolfsburg,617353,Bundesliga,11,APIFootball
+RB Leipzig,Maarten Vandevoordt,0,Substitute,2026-02-15,VfL Wolfsburg,617353,Bundesliga,26,APIFootball
+RB Leipzig,Ridle Baku,0,Substitute,2026-02-15,VfL Wolfsburg,617353,Bundesliga,17,APIFootball
+RB Leipzig,Rômulo,0,Substitute,2026-02-15,VfL Wolfsburg,617353,Bundesliga,40,APIFootball
+RB Leipzig,Castello Lukeba,0,Substitute,2026-02-15,VfL Wolfsburg,617353,Bundesliga,23,APIFootball
+RB Leipzig,Johan Bakayoko,0,Substitute,2026-02-15,VfL Wolfsburg,617353,Bundesliga,9,APIFootball
+RB Leipzig,El Chadaille Bitshiabu,0,Substitute,2026-02-15,VfL Wolfsburg,617353,Bundesliga,5,APIFootball
+RB Leipzig,Tidiam Gomis,0,Substitute,2026-02-15,VfL Wolfsburg,617353,Bundesliga,27,APIFootball
+RB Leipzig,Andrija Maksimović,0,Substitute,2026-02-15,VfL Wolfsburg,617353,Bundesliga,33,APIFootball
+RB Leipzig,Ezechiel Banzuzi,0,Substitute,2026-02-15,VfL Wolfsburg,617353,Bundesliga,6,APIFootball
+1. FSV Mainz 05,Urs Fischer,,Coach,2026-02-20,Hamburger SV,617358,Bundesliga,,APIFootball
+1. FSV Mainz 05,Daniel Batz,1,Starting XI,2026-02-20,Hamburger SV,617358,Bundesliga,33,APIFootball
+1. FSV Mainz 05,Dominik Kohr,2,Starting XI,2026-02-20,Hamburger SV,617358,Bundesliga,31,APIFootball
+1. FSV Mainz 05,Stefan Posch,3,Starting XI,2026-02-20,Hamburger SV,617358,Bundesliga,4,APIFootball
+1. FSV Mainz 05,Kacper Potulski,4,Starting XI,2026-02-20,Hamburger SV,617358,Bundesliga,48,APIFootball
+1. FSV Mainz 05,Danny da Costa,5,Starting XI,2026-02-20,Hamburger SV,617358,Bundesliga,21,APIFootball
+1. FSV Mainz 05,Jae-sung Lee,6,Starting XI,2026-02-20,Hamburger SV,617358,Bundesliga,7,APIFootball
+1. FSV Mainz 05,Kaishu Sano,7,Starting XI,2026-02-20,Hamburger SV,617358,Bundesliga,6,APIFootball
+1. FSV Mainz 05,Nadiem Amiri,8,Starting XI,2026-02-20,Hamburger SV,617358,Bundesliga,10,APIFootball
+1. FSV Mainz 05,Phillipp Mwene,9,Starting XI,2026-02-20,Hamburger SV,617358,Bundesliga,2,APIFootball
+1. FSV Mainz 05,Silas,10,Starting XI,2026-02-20,Hamburger SV,617358,Bundesliga,26,APIFootball
+1. FSV Mainz 05,Phillip Tietz,11,Starting XI,2026-02-20,Hamburger SV,617358,Bundesliga,20,APIFootball
+1. FSV Mainz 05,Sheraldo Becker,0,Substitute,2026-02-20,Hamburger SV,617358,Bundesliga,23,APIFootball
+1. FSV Mainz 05,Nikolas Veratschnig,0,Substitute,2026-02-20,Hamburger SV,617358,Bundesliga,22,APIFootball
+1. FSV Mainz 05,Paul Nebel,0,Substitute,2026-02-20,Hamburger SV,617358,Bundesliga,8,APIFootball
+1. FSV Mainz 05,Lasse Riess,0,Substitute,2026-02-20,Hamburger SV,617358,Bundesliga,1,APIFootball
+1. FSV Mainz 05,Maxim Leitsch,0,Substitute,2026-02-20,Hamburger SV,617358,Bundesliga,5,APIFootball
+1. FSV Mainz 05,Daniel Gleiber,0,Substitute,2026-02-20,Hamburger SV,617358,Bundesliga,42,APIFootball
+1. FSV Mainz 05,William Bøving,0,Substitute,2026-02-20,Hamburger SV,617358,Bundesliga,14,APIFootball
+1. FSV Mainz 05,Lennard Maloney,0,Substitute,2026-02-20,Hamburger SV,617358,Bundesliga,15,APIFootball
+1. FSV Mainz 05,Armindo Sieb,0,Substitute,2026-02-20,Hamburger SV,617358,Bundesliga,11,APIFootball
+FC St. Pauli,Alexander Blessin,,Coach,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,,APIFootball
+FC St. Pauli,Nikola Vasilj,1,Starting XI,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,22,APIFootball
+FC St. Pauli,Adam Dźwigała,2,Starting XI,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,25,APIFootball
+FC St. Pauli,Tomoya Ando,3,Starting XI,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,15,APIFootball
+FC St. Pauli,Karol Mets,4,Starting XI,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,3,APIFootball
+FC St. Pauli,Manolis Saliakas,5,Starting XI,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,2,APIFootball
+FC St. Pauli,James Sands,6,Starting XI,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,6,APIFootball
+FC St. Pauli,Jackson Irvine,7,Starting XI,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,7,APIFootball
+FC St. Pauli,Arkadiusz Pyrka,8,Starting XI,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,11,APIFootball
+FC St. Pauli,Danel Sinani,9,Starting XI,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,10,APIFootball
+FC St. Pauli,Mathias Rasmussen,10,Starting XI,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,20,APIFootball
+FC St. Pauli,Martijn Kaars,11,Starting XI,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,19,APIFootball
+FC St. Pauli,Joel Chima Fujita,0,Substitute,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,16,APIFootball
+FC St. Pauli,Taichi Hara,0,Substitute,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,18,APIFootball
+FC St. Pauli,Lars Ritzka,0,Substitute,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,21,APIFootball
+FC St. Pauli,Abdoulie Ceesay,0,Substitute,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,9,APIFootball
+FC St. Pauli,Ben Voll,0,Substitute,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,1,APIFootball
+FC St. Pauli,Fin Stevens,0,Substitute,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,14,APIFootball
+FC St. Pauli,Jannik Thomas Robatsch,0,Substitute,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,34,APIFootball
+FC St. Pauli,Louis Oppie,0,Substitute,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,23,APIFootball
+FC St. Pauli,Romeo Aigbekaen,0,Substitute,2026-02-14,Bayer 04 Leverkusen,617349,Bundesliga,38,APIFootball
+VfB Stuttgart,Sebastian Hoeness,,Coach,2026-02-14,1. FC Köln,617347,Bundesliga,,APIFootball
+VfB Stuttgart,Alexander Nübel,1,Starting XI,2026-02-14,1. FC Köln,617347,Bundesliga,33,APIFootball
+VfB Stuttgart,Lorenz Assignon,2,Starting XI,2026-02-14,1. FC Köln,617347,Bundesliga,22,APIFootball
+VfB Stuttgart,Finn Jeltsch,3,Starting XI,2026-02-14,1. FC Köln,617347,Bundesliga,29,APIFootball
+VfB Stuttgart,Jeff Chabot,4,Starting XI,2026-02-14,1. FC Köln,617347,Bundesliga,24,APIFootball
+VfB Stuttgart,Maximilian Mittelstädt,5,Starting XI,2026-02-14,1. FC Köln,617347,Bundesliga,7,APIFootball
+VfB Stuttgart,Atakan Karazor,6,Starting XI,2026-02-14,1. FC Köln,617347,Bundesliga,16,APIFootball
+VfB Stuttgart,Chema Andrés,7,Starting XI,2026-02-14,1. FC Köln,617347,Bundesliga,30,APIFootball
+VfB Stuttgart,Jamie Leweling,8,Starting XI,2026-02-14,1. FC Köln,617347,Bundesliga,18,APIFootball
+VfB Stuttgart,Deniz Undav,9,Starting XI,2026-02-14,1. FC Köln,617347,Bundesliga,26,APIFootball
+VfB Stuttgart,Chris Führich,10,Starting XI,2026-02-14,1. FC Köln,617347,Bundesliga,10,APIFootball
+VfB Stuttgart,Ermedin Demirović,11,Starting XI,2026-02-14,1. FC Köln,617347,Bundesliga,9,APIFootball
+VfB Stuttgart,Bilal El Khannouss,0,Substitute,2026-02-14,1. FC Köln,617347,Bundesliga,11,APIFootball
+VfB Stuttgart,Josha Vagnoman,0,Substitute,2026-02-14,1. FC Köln,617347,Bundesliga,4,APIFootball
+VfB Stuttgart,Ramon Hendriks,0,Substitute,2026-02-14,1. FC Köln,617347,Bundesliga,3,APIFootball
+VfB Stuttgart,Angelo Stiller,0,Substitute,2026-02-14,1. FC Köln,617347,Bundesliga,6,APIFootball
+VfB Stuttgart,Tiago Tomás,0,Substitute,2026-02-14,1. FC Köln,617347,Bundesliga,8,APIFootball
+VfB Stuttgart,Fabian Bredlow,0,Substitute,2026-02-14,1. FC Köln,617347,Bundesliga,1,APIFootball
+VfB Stuttgart,Ameen Al-Dakhil,0,Substitute,2026-02-14,1. FC Köln,617347,Bundesliga,2,APIFootball
+VfB Stuttgart,Pascal Stenzel,0,Substitute,2026-02-14,1. FC Köln,617347,Bundesliga,15,APIFootball
+VfB Stuttgart,Badredine Bouanani,0,Substitute,2026-02-14,1. FC Köln,617347,Bundesliga,27,APIFootball
+1. FC Union Berlin,Steffen Baumgart,,Coach,2026-02-14,Hamburger SV,617350,Bundesliga,,APIFootball
+1. FC Union Berlin,Frederik Rønnow,1,Starting XI,2026-02-14,Hamburger SV,617350,Bundesliga,1,APIFootball
+1. FC Union Berlin,Danilho Doekhi,2,Starting XI,2026-02-14,Hamburger SV,617350,Bundesliga,5,APIFootball
+1. FC Union Berlin,Leopold Querfeld,3,Starting XI,2026-02-14,Hamburger SV,617350,Bundesliga,14,APIFootball
+1. FC Union Berlin,Stanley N'Soki,4,Starting XI,2026-02-14,Hamburger SV,617350,Bundesliga,34,APIFootball
+1. FC Union Berlin,Christopher Trimmel,5,Starting XI,2026-02-14,Hamburger SV,617350,Bundesliga,28,APIFootball
+1. FC Union Berlin,Rani Khedira,6,Starting XI,2026-02-14,Hamburger SV,617350,Bundesliga,8,APIFootball
+1. FC Union Berlin,Aljoscha Kemlein,7,Starting XI,2026-02-14,Hamburger SV,617350,Bundesliga,6,APIFootball
+1. FC Union Berlin,Derrick Köhn,8,Starting XI,2026-02-14,Hamburger SV,617350,Bundesliga,39,APIFootball
+1. FC Union Berlin,Woo-Yeong Jeong,9,Starting XI,2026-02-14,Hamburger SV,617350,Bundesliga,11,APIFootball
+1. FC Union Berlin,Ilyas Ansah,10,Starting XI,2026-02-14,Hamburger SV,617350,Bundesliga,10,APIFootball
+1. FC Union Berlin,Andrej Ilić,11,Starting XI,2026-02-14,Hamburger SV,617350,Bundesliga,23,APIFootball
+1. FC Union Berlin,Tim Skarke,0,Substitute,2026-02-14,Hamburger SV,617350,Bundesliga,21,APIFootball
+1. FC Union Berlin,Livan Burcu,0,Substitute,2026-02-14,Hamburger SV,617350,Bundesliga,9,APIFootball
+1. FC Union Berlin,Alex Král,0,Substitute,2026-02-14,Hamburger SV,617350,Bundesliga,33,APIFootball
+1. FC Union Berlin,András Schäfer,0,Substitute,2026-02-14,Hamburger SV,617350,Bundesliga,13,APIFootball
+1. FC Union Berlin,Oliver Burke,0,Substitute,2026-02-14,Hamburger SV,617350,Bundesliga,7,APIFootball
+1. FC Union Berlin,Matheo Raab,0,Substitute,2026-02-14,Hamburger SV,617350,Bundesliga,31,APIFootball
+1. FC Union Berlin,Andrik Markgraf,0,Substitute,2026-02-14,Hamburger SV,617350,Bundesliga,3,APIFootball
+1. FC Union Berlin,Janik Haberer,0,Substitute,2026-02-14,Hamburger SV,617350,Bundesliga,19,APIFootball
+1. FC Union Berlin,David Preu,0,Substitute,2026-02-14,Hamburger SV,617350,Bundesliga,17,APIFootball
+SC Freiburg,Julian Schuster,,Coach,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,,APIFootball
+SC Freiburg,Noah Atubolu,1,Starting XI,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,1,APIFootball
+SC Freiburg,Philipp Treu,2,Starting XI,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,29,APIFootball
+SC Freiburg,Matthias Ginter,3,Starting XI,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,28,APIFootball
+SC Freiburg,Bruno Ogbus,4,Starting XI,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,43,APIFootball
+SC Freiburg,Christian Günter,5,Starting XI,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,30,APIFootball
+SC Freiburg,Maximilian Eggestein,6,Starting XI,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,8,APIFootball
+SC Freiburg,Patrick Osterhage,7,Starting XI,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,6,APIFootball
+SC Freiburg,Cyriaque Irié,8,Starting XI,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,22,APIFootball
+SC Freiburg,Yuito Suzuki,9,Starting XI,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,14,APIFootball
+SC Freiburg,Derry Scherhant,10,Starting XI,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,7,APIFootball
+SC Freiburg,Lucas Höler,11,Starting XI,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,9,APIFootball
+SC Freiburg,Max Rosenfelder,0,Substitute,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,37,APIFootball
+SC Freiburg,Anthony Jung,0,Substitute,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,5,APIFootball
+SC Freiburg,Igor Matanović,0,Substitute,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,31,APIFootball
+SC Freiburg,Vincenzo Grifo,0,Substitute,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,32,APIFootball
+SC Freiburg,Jan-Niklas Beste,0,Substitute,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,19,APIFootball
+SC Freiburg,Florian Müller,0,Substitute,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,21,APIFootball
+SC Freiburg,Jordy Makengo,0,Substitute,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,33,APIFootball
+SC Freiburg,Karl Steinmann,0,Substitute,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,65,APIFootball
+SC Freiburg,Nicolas Höfler,0,Substitute,2026-02-14,TSG 1899 Hoffenheim,617348,Bundesliga,27,APIFootball
+SV Werder Bremen,Daniel Thioune,,Coach,2026-02-14,FC Bayern München,617351,Bundesliga,,APIFootball
+SV Werder Bremen,Mio Backhaus,1,Starting XI,2026-02-14,FC Bayern München,617351,Bundesliga,30,APIFootball
+SV Werder Bremen,Niklas Stark,2,Starting XI,2026-02-14,FC Bayern München,617351,Bundesliga,4,APIFootball
+SV Werder Bremen,Marco Friedl,3,Starting XI,2026-02-14,FC Bayern München,617351,Bundesliga,32,APIFootball
+SV Werder Bremen,Karim Coulibaly,4,Starting XI,2026-02-14,FC Bayern München,617351,Bundesliga,31,APIFootball
+SV Werder Bremen,Justin Njinmah,5,Starting XI,2026-02-14,FC Bayern München,617351,Bundesliga,11,APIFootball
+SV Werder Bremen,Jens Stage,6,Starting XI,2026-02-14,FC Bayern München,617351,Bundesliga,6,APIFootball
+SV Werder Bremen,Senne Lynen,7,Starting XI,2026-02-14,FC Bayern München,617351,Bundesliga,14,APIFootball
+SV Werder Bremen,Felix Agu,8,Starting XI,2026-02-14,FC Bayern München,617351,Bundesliga,27,APIFootball
+SV Werder Bremen,Romano Schmid,9,Starting XI,2026-02-14,FC Bayern München,617351,Bundesliga,20,APIFootball
+SV Werder Bremen,Cameron Puertas,10,Starting XI,2026-02-14,FC Bayern München,617351,Bundesliga,18,APIFootball
+SV Werder Bremen,Marco Grüll,11,Starting XI,2026-02-14,FC Bayern München,617351,Bundesliga,17,APIFootball
+SV Werder Bremen,Samuel Mbangula,0,Substitute,2026-02-14,FC Bayern München,617351,Bundesliga,7,APIFootball
+SV Werder Bremen,Julián Malatini,0,Substitute,2026-02-14,FC Bayern München,617351,Bundesliga,22,APIFootball
+SV Werder Bremen,Isaac Schmidt,0,Substitute,2026-02-14,FC Bayern München,617351,Bundesliga,23,APIFootball
+SV Werder Bremen,Patrice Čović,0,Substitute,2026-02-14,FC Bayern München,617351,Bundesliga,24,APIFootball
+SV Werder Bremen,Yukinari Sugawara,0,Substitute,2026-02-14,FC Bayern München,617351,Bundesliga,3,APIFootball
+SV Werder Bremen,Karl Hein,0,Substitute,2026-02-14,FC Bayern München,617351,Bundesliga,13,APIFootball
+SV Werder Bremen,Olivier Deman,0,Substitute,2026-02-14,FC Bayern München,617351,Bundesliga,2,APIFootball
+SV Werder Bremen,Jovan Milošević,0,Substitute,2026-02-14,FC Bayern München,617351,Bundesliga,19,APIFootball
+SV Werder Bremen,Keke Topp,0,Substitute,2026-02-14,FC Bayern München,617351,Bundesliga,9,APIFootball
+VfL Wolfsburg,Daniel Bauer,,Coach,2026-02-15,RB Leipzig,617353,Bundesliga,,APIFootball
+VfL Wolfsburg,Kamil Grabara,1,Starting XI,2026-02-15,RB Leipzig,617353,Bundesliga,1,APIFootball
+VfL Wolfsburg,Saël Kumbedi,2,Starting XI,2026-02-15,RB Leipzig,617353,Bundesliga,26,APIFootball
+VfL Wolfsburg,Denis Vavro,3,Starting XI,2026-02-15,RB Leipzig,617353,Bundesliga,3,APIFootball
+VfL Wolfsburg,Moritz Jenz,4,Starting XI,2026-02-15,RB Leipzig,617353,Bundesliga,15,APIFootball
+VfL Wolfsburg,Jeanuël Belocian,5,Starting XI,2026-02-15,RB Leipzig,617353,Bundesliga,6,APIFootball
+VfL Wolfsburg,Christian Eriksen,6,Starting XI,2026-02-15,RB Leipzig,617353,Bundesliga,24,APIFootball
+VfL Wolfsburg,Maximilian Arnold,7,Starting XI,2026-02-15,RB Leipzig,617353,Bundesliga,27,APIFootball
+VfL Wolfsburg,Adam Daghim,8,Starting XI,2026-02-15,RB Leipzig,617353,Bundesliga,11,APIFootball
+VfL Wolfsburg,Lovro Majer,9,Starting XI,2026-02-15,RB Leipzig,617353,Bundesliga,10,APIFootball
+VfL Wolfsburg,Kento Shiogai,10,Starting XI,2026-02-15,RB Leipzig,617353,Bundesliga,7,APIFootball
+VfL Wolfsburg,Mohamed Amoura,11,Starting XI,2026-02-15,RB Leipzig,617353,Bundesliga,9,APIFootball
+VfL Wolfsburg,Mattias Svanberg,0,Substitute,2026-02-15,RB Leipzig,617353,Bundesliga,32,APIFootball
+VfL Wolfsburg,Konstantinos Koulierakis,0,Substitute,2026-02-15,RB Leipzig,617353,Bundesliga,4,APIFootball
+VfL Wolfsburg,Dženan Pejčinović,0,Substitute,2026-02-15,RB Leipzig,617353,Bundesliga,17,APIFootball
+VfL Wolfsburg,Jonas Adjei Adjetey,0,Substitute,2026-02-15,RB Leipzig,617353,Bundesliga,18,APIFootball
+VfL Wolfsburg,Marius Müller,0,Substitute,2026-02-15,RB Leipzig,617353,Bundesliga,29,APIFootball
+VfL Wolfsburg,Jan Bürger,0,Substitute,2026-02-15,RB Leipzig,617353,Bundesliga,41,APIFootball
+VfL Wolfsburg,Pharell Hensel,0,Substitute,2026-02-15,RB Leipzig,617353,Bundesliga,37,APIFootball
+VfL Wolfsburg,Yannick Gerhardt,0,Substitute,2026-02-15,RB Leipzig,617353,Bundesliga,31,APIFootball
+VfL Wolfsburg,Vinícius Souza,0,Substitute,2026-02-15,RB Leipzig,617353,Bundesliga,5,APIFootball
